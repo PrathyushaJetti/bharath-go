@@ -5,7 +5,7 @@
                     <div class="row align-items-end">
                         <div class="col-lg-8">
                             <div class="brand">
-                                <a class="footer-logo" href="index.html"><img src="assets/images/bharath-go.png"
+                                <a class="footer-logo" href="index.php"><img src="assets/images/bharath-go.png"
                                         alt="logo"></a>
                                 <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
                             </div>
@@ -72,7 +72,7 @@
                             </div>
                             <form action="#" class="subscribe-form">
                                 <input class="form-control" type="email" name="email" placeholder="Your Email"
-                                    required="">
+                                    required>
                                 <input type="hidden" name="action" value="mailchimpsubscribe">
                                 <button class="submit">Subscribe Now</button>
                                 <div class="clearfix"></div>
@@ -94,7 +94,7 @@
         <!--/.footer-mid-wrap-->
         <div class="copyright-wrap">
             <div class="container">
-                <p>© <span>2022</span> Bharath Go All Rights Reserved</p>
+                <p>© <span>2024</span> Bharath Go All Rights Reserved</p>
             </div>
         </div>
         <!--/.copyright-wrap-->

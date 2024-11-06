@@ -9,7 +9,8 @@
     
     
 
-    <title><?php echo $meta['title'] ;?></title>
+    <title><?php $title = isset($meta['title']) ? $meta['title'] : 'Bharat Go';
+    echo $title; ?></title>
     <meta name="description" content="<?php echo $meta['description'] ;?>">
     <meta name="keywords" content="<?php echo $meta['keywords'] ;?>">
     
@@ -64,7 +65,7 @@
                     <div class="top-right">
                         <ul class="top-header-nav">
                             <li><a href="faqs.php">Help</a></li>
-                            <li><a href="contact-us.html">Support</a></li>
+                            <li><a href="contact-us.php">Support</a></li>
                             <li><a href="faqs.php">FAQ</a></li>
                         </ul>
                         <ul class="header-social-share">
@@ -81,7 +82,7 @@
             <div class="container">
                 <div class="mid-header-wrap">
                     <div class="site-logo">
-                        <a href="index.html"><img src="assets/images/bharath-go.png" alt="Logo"></a>
+                        <a href="index.php"><img src="assets/images/bharath-go.png" alt="Logo"></a>
                     </div><!--/.site-logo-->
                     <ul class="header-info">
                         <li>
@@ -97,7 +98,7 @@
                                 <i class="las la-envelope-open"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3><span>Email now</span>Info.ridek@mail.com</h3>
+                                <h3><span>Email now</span>Info.BharatGo@mail.com</h3>
                             </div>
                         </li>
                         <li>
@@ -116,7 +117,7 @@
             <div class="container">
                 <div class="nav-menu-inner">
                     <div class="site-logo">
-                        <a href="index.html"><img src="assets/images/bharath-go.png" alt="Logo"></a>
+                        <a href="index.php"><img src="assets/images/bharath-go.png" alt="Logo"></a>
                     </div><!--/.site-logo-->
                     <div class="header-menu-wrap">
                         <ul class="nav-menu">
@@ -154,7 +155,7 @@
                         <div class="sidebox-icon dl-sidebox-icon">
                             <i class="las la-bars"></i>
                         </div>
-                        <a href="book-taxi.html" class="menu-btn">Book a Taxi</a>
+                        <a href="#downloadNow" class="menu-btn">Book a Taxi</a>
                     </div>
                     <div class="mobile-menu-icon">
                         <div class="burger-menu">

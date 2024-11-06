@@ -27,16 +27,16 @@ include('includes/header.php')
     <div id="popup-sidebox" class="popup-sidebox">
         <div class="sidebox-content">
             <div class="site-logo">
-                <a href="index.html"><img src="assets/images/bharath-go.png" alt="logo" /></a>
+                <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! Ridek, a theme
+            <p>Everything your taxi business needs is already here! BharatGo, a theme
                 made for taxi service companies.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
                     <span>You can find us at:</span>Halk Street New York, USA - 2386
                 </li>
-                <li><span>Email now:</span>Info.ridek@mail.com</li>
+                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
             </ul>
         </div>
     </div>
@@ -48,7 +48,7 @@ include('includes/header.php')
         <div class="container">
             <div class="page-header-info">
                 <h4>Blog </h4>
-                <h2>Feel your journey <br> with <span>Ridek!</span></h2>
+                <h2>Feel your journey <br> with <span>BharatGo!</span></h2>
                 <p>Everything your taxi business <br>needs is already here! </p>
             </div>
         </div>
@@ -148,11 +148,11 @@ include('includes/header.php')
                             <h3>Categories</h3>
                         </div>
                         <ul class="category-list">
-                            <li><a href="blog.html">Business Strategy</a><span>23</span></li>
-                            <li><a href="blog.html">Project Management</a><span>05</span></li>
-                            <li><a href="blog.html">Digital Marketing</a><span>18</span></li>
-                            <li><a href="blog.html">Customer Experience</a><span>04</span></li>
-                            <li><a href="blog.html">Partnership System</a><span>15</span></li>
+                            <li><a href="blog.php">Business Strategy</a><span>23</span></li>
+                            <li><a href="blog.php">Project Management</a><span>05</span></li>
+                            <li><a href="blog.php">Digital Marketing</a><span>18</span></li>
+                            <li><a href="blog.php">Customer Experience</a><span>04</span></li>
+                            <li><a href="blog.php">Partnership System</a><span>15</span></li>
                         </ul>
                     </div>
                     <!--Categories-->
@@ -166,7 +166,7 @@ include('includes/header.php')
                                     <img src="assets/img/post-thumb-1.jpg" alt="thumb">
                                 </div>
                                 <div class="thumb-post-info">
-                                    <h3><a href="blog-details.html">How To Go About Initiating An Startup In Few Days.</a></h3>
+                                    <h3><a href="blog-details.php">How To Go About Initiating An Startup In Few Days.</a></h3>
                                     <a href="#" class="date">Jan 01 2022</a>
                                 </div>
                             </li>
@@ -175,7 +175,7 @@ include('includes/header.php')
                                     <img src="assets/img/post-thumb-2.jpg" alt="thumb">
                                 </div>
                                 <div class="thumb-post-info">
-                                    <h3><a href="blog-details.html">Financial Experts Support Help You To Find Out.</a></h3>
+                                    <h3><a href="blog-details.php">Financial Experts Support Help You To Find Out.</a></h3>
                                     <a href="#" class="date">Jan 01 2022</a>
                                 </div>
                             </li>
@@ -184,7 +184,7 @@ include('includes/header.php')
                                     <img src="assets/img/post-thumb-3.jpg" alt="thumb">
                                 </div>
                                 <div class="thumb-post-info">
-                                    <h3><a href="blog-details.html">Innovative Helping Business All Over The World.</a></h3>
+                                    <h3><a href="blog-details.php">Innovative Helping Business All Over The World.</a></h3>
                                     <a href="#" class="date">Jan 01 2022</a>
                                 </div>
                             </li>

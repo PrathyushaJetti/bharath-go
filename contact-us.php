@@ -27,16 +27,16 @@ include('includes/header.php')
     <div id="popup-sidebox" class="popup-sidebox">
         <div class="sidebox-content">
             <div class="site-logo">
-                <a href="index.html"><img src="assets/images/bharath-go.png" alt="logo" /></a>
+                <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! Ridek, a theme
+            <p>Everything your taxi business needs is already here! BharatGo, a theme
                 made for taxi service companies.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
                     <span>You can find us at:</span>Halk Street New York, USA - 2386
                 </li>
-                <li><span>Email now:</span>Info.ridek@mail.com</li>
+                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
             </ul>
         </div>
     </div>
@@ -99,7 +99,7 @@ include('includes/header.php')
     </section>
     <!--/.contact-section-->
 
-    <section class="branches-section bg-grey padding">
+    <!-- <section class="branches-section bg-grey padding">
         <div class="container">
             <div class="row branches-lists">
                 <div class="col-lg-3 col-sm-6 sm-padding">
@@ -148,7 +148,7 @@ include('includes/header.php')
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--/.branches-section-->
 
     <?php include('includes/footer.php');?>

@@ -9,10 +9,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ridek Online Taxi Booking HTML5 Template">
+    <meta name="description" content="BharatGo Online Taxi Booking HTML5 Template">
     <meta name="author" content="DynamicLayers">
 
-    <title>Ridek - Online Taxi Booking Service HTML5 Template</title>
+    <title>BharatGo - Online Taxi Booking Service HTML5 Template</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/bharath-go.png">
 
@@ -69,7 +69,7 @@
                     <div class="top-right">
                         <ul class="top-header-nav">
                             <li><a href="faqs.php">Help</a></li>
-                            <li><a href="contact-us.html">Support</a></li>
+                            <li><a href="contact-us.php">Support</a></li>
                             <li><a href="faqs.php">FAQ</a></li>
                         </ul>
                         <ul class="header-social-share">
@@ -87,7 +87,7 @@
             <div class="container">
                 <div class="mid-header-wrap">
                     <div class="site-logo">
-                        <a href="index.html"><img src="assets/images/bharath-go.png" alt="Logo" /></a>
+                        <a href="index.php"><img src="assets/images/bharath-go.png" alt="Logo" /></a>
                     </div>
                     <!--/.site-logo-->
                     <ul class="header-info">
@@ -104,7 +104,7 @@
                                 <i class="las la-envelope-open"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3><span>Email now</span>Info.ridek@mail.com</h3>
+                                <h3><span>Email now</span>Info.BharatGo@mail.com</h3>
                             </div>
                         </li>
                         <li>
@@ -124,54 +124,54 @@
             <div class="container">
                 <div class="nav-menu-inner">
                     <div class="site-logo">
-                        <a href="index.html"><img src="assets/images/bharath-go.png" alt="Logo" /></a>
+                        <a href="index.php"><img src="assets/images/bharath-go.png" alt="Logo" /></a>
                     </div>
                     <!--/.site-logo-->
                     <div class="header-menu-wrap">
                         <ul class="nav-menu">
                             <li class="dropdown_menu">
-                                <a href="index.html">Home</a>
+                                <a href="index.php">Home</a>
                                 <ul>
-                                    <li><a href="index.html">Home Default</a></li>
-                                    <li><a href="index-2.html">Home Modern</a></li>
+                                    <li><a href="index.php">Home Default</a></li>
+                                    <li><a href="index-2.php">Home Modern</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown_menu">
-                                <a href="about-us.html">Company</a>
+                                <a href="about-us.php">Company</a>
                                 <ul>
-                                    <li><a href="about-us.html">About Us</a></li>
-                                    <li><a href="about-company.html">About Company</a></li>
-                                    <li><a href="our-services.html">Our Services</a></li>
-                                    <li><a href="service-details.html">Services Details</a></li>
-                                    <li><a href="book-taxi.html">Book a Ride</a></li>
+                                    <li><a href="about-us.php">About Us</a></li>
+                                    <li><a href="about-company.php">About Company</a></li>
+                                    <li><a href="our-services.php">Our Services</a></li>
+                                    <li><a href="service-details.php">Services Details</a></li>
+                                    <li><a href="book-taxi.php">Book a Ride</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown_menu">
-                                <a href="our-taxi.html">Our Taxi</a>
+                                <a href="our-taxi.php">Our Taxi</a>
                                 <ul>
-                                    <li><a href="our-taxi.html">Taxi Lists</a></li>
-                                    <li><a href="taxi-details.html">Taxi Details</a></li>
+                                    <li><a href="our-taxi.php">Taxi Lists</a></li>
+                                    <li><a href="taxi-details.php">Taxi Details</a></li>
                                 </ul>
                             </li>
                             <li class="active dropdown_menu">
                                 <a href="#">Pages</a>
                                 <ul>
-                                    <li><a href="our-drivers.html">Our Drivers</a></li>
-                                    <li><a href="driver-details.html">Driver Details</a></li>
-                                    <li><a href="testimonials.html">Customer Reviews</a></li>
+                                    <li><a href="our-drivers.php">Our Drivers</a></li>
+                                    <li><a href="driver-details.php">Driver Details</a></li>
+                                    <li><a href="testimonials.php">Customer Reviews</a></li>
                                     <li><a href="faqs.php">Help &amp; Faq's</a></li>
-                                    <li><a href="404.html">404 Error</a></li>
+                                    <li><a href="404.php">404 Error</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown_menu">
-                                <a href="blog.html">Blog</a>
+                                <a href="blog.php">Blog</a>
                                 <ul>
-                                    <li><a href="blog.html">Grid Posts</a></li>
-                                    <li><a href="blog-classic.html">Classic Posts</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog.php">Grid Posts</a></li>
+                                    <li><a href="blog-classic.php">Classic Posts</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact-us.html">Contact</a></li>
+                            <li><a href="contact-us.php">Contact</a></li>
                         </ul>
                     </div>
                     <div class="menu-right-item">
@@ -181,7 +181,7 @@
                         <div class="sidebox-icon dl-sidebox-icon">
                             <i class="las la-bars"></i>
                         </div>
-                        <a href="book-taxi.html" class="menu-btn">Book a Taxi</a>
+                        <a href="book-taxi.php" class="menu-btn">Book a Taxi</a>
                     </div>
                     <div class="mobile-menu-icon">
                         <div class="burger-menu">
@@ -214,16 +214,16 @@
     <div id="popup-sidebox" class="popup-sidebox">
         <div class="sidebox-content">
             <div class="site-logo">
-                <a href="index.html"><img src="assets/images/bharath-go.png" alt="logo" /></a>
+                <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! Ridek, a theme
+            <p>Everything your taxi business needs is already here! BharatGo, a theme
                 made for taxi service companies.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
                     <span>You can find us at:</span>Halk Street New York, USA - 2386
                 </li>
-                <li><span>Email now:</span>Info.ridek@mail.com</li>
+                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
             </ul>
         </div>
     </div>
@@ -236,7 +236,7 @@
                 <h4>Oops! Where are we?</h4>
                 <h2>404 Page <span>Not Found!</span></h2>
                 <p>Page not Found! The page you are looking for was moved, <br>removed, renamed or might never existed.</p>
-                <a href="index.html" class="default-btn mt-30">Back To Homepage</a>
+                <a href="index.php" class="default-btn mt-30">Back To Homepage</a>
             </div>
         </div>
     </section>
@@ -249,7 +249,7 @@
                     <div class="row align-items-end">
                         <div class="col-lg-8">
                             <div class="brand">
-                                <a class="footer-logo" href="index.html"><img src="assets/images/bharath-go.png" alt="logo"></a>
+                                <a class="footer-logo" href="index.php"><img src="assets/images/bharath-go.png" alt="logo"></a>
                                 <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
                             </div>
                         </div>
@@ -285,11 +285,11 @@
                                 <h3>Usefull Links</h3>
                             </div>
                             <ul class="footer-links">
-                                <li><a href="book-taxi.html">Taxi Booking</a></li>
+                                <li><a href="book-taxi.php">Taxi Booking</a></li>
                                 <li><a href="faqs.php">Help Center</a></li>
-                                <li><a href="about-us.html">Privacy and Policy</a></li>
-                                <li><a href="about-company.html">Terms of Use</a></li>
-                                <li><a href="contact-us.html">Contact Us</a></li>
+                                <li><a href="about-us.php">Privacy and Policy</a></li>
+                                <li><a href="about-company.php">Terms of Use</a></li>
+                                <li><a href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

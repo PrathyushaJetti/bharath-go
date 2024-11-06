@@ -1876,7 +1876,7 @@ var datetimepickerFactory = function ($) {
 						}
 						table += '</tbody></table>';
 
-						calendar.html(table);
+						calendar.php(table);
 
 						month_picker.find('.xdsoft_label span').eq(0).text(options.i18n[globalLocale].months[_xdsoft_datetime.currentTime.getMonth()]);
 						month_picker.find('.xdsoft_label span').eq(1).text(_xdsoft_datetime.currentTime.getFullYear() + options.yearOffset);
@@ -1967,7 +1967,7 @@ var datetimepickerFactory = function ($) {
 							}
 						}
 
-						timebox.html(time);
+						timebox.php(time);
 
 						opt = '';
 
@@ -1975,12 +1975,12 @@ var datetimepickerFactory = function ($) {
 							opt += '<div class="xdsoft_option ' + (_xdsoft_datetime.currentTime.getFullYear() === i ? 'xdsoft_current' : '') + '" data-value="' + i + '">' + (i + options.yearOffset) + '</div>';
 						}
 						yearselect.children().eq(0)
-							.html(opt);
+							.php(opt);
 
 						for (i = parseInt(options.monthStart, 10), opt = ''; i <= parseInt(options.monthEnd, 10); i += 1) {
 							opt += '<div class="xdsoft_option ' + (_xdsoft_datetime.currentTime.getMonth() === i ? 'xdsoft_current' : '') + '" data-value="' + i + '">' + options.i18n[globalLocale].months[i] + '</div>';
 						}
-						monthselect.children().eq(0).html(opt);
+						monthselect.children().eq(0).php(opt);
 						$(datetimepicker)
 							.trigger('generate.xdsoft');
 					}, 10);

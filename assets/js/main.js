@@ -15,7 +15,7 @@
             var primaryHeader = $(".nav-menu-wrapper"),
                 headerClone = primaryHeader.clone();
             $(".main-header").after('<div class="sticky-header"></div>');
-            $(".sticky-header").html(headerClone);
+            $(".sticky-header").php(headerClone);
 
             var headerSelector = document.querySelector(".sticky-header"),
                 triggerPoint = $(".main-header").height(),

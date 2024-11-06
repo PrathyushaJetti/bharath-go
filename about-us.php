@@ -27,16 +27,16 @@ include('includes/header.php')
     <div id="popup-sidebox" class="popup-sidebox">
         <div class="sidebox-content">
             <div class="site-logo">
-                <a href="index.html"><img src="assets/images/bharath-go.png" alt="logo" /></a>
+                <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! Ridek, a theme
+            <p>Everything your taxi business needs is already here! BharatGo, a theme
                 made for taxi service companies.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
                     <span>You can find us at:</span>Halk Street New York, USA - 2386
                 </li>
-                <li><span>Email now:</span>Info.ridek@mail.com</li>
+                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
             </ul>
         </div>
     </div>
@@ -48,7 +48,7 @@ include('includes/header.php')
         <div class="container">
             <div class="page-header-info">
                 <h4>About Us!</h4>
-                <h2>Feel your journey <br> with <span>Ridek!</span></h2>
+                <h2>Feel your journey <br> with <span>BharatGo!</span></h2>
                 <p>Everything your taxi business <br>needs is already here! </p>
             </div>
         </div>
@@ -70,7 +70,7 @@ include('includes/header.php')
             <div class="col-md-6">
                 <div class="section-heading mb-40 wow fade-in-right" data-wow-delay="200ms">
                     <h4><span></span>About Our Company</h4>
-                    <h2>Feel the difference and Relaxation with Ridek Taxi Company!</h2>
+                    <h2>Feel the difference and Relaxation with BharatGo Taxi Company!</h2>
                     <p>In 2023, Bharath Go introduced Bike-Taxis to India, becoming a leader in this space. With a focus on making travel easier across the country, it has grown steadily. Now, it’s well-known for app-based auto services and is expanding its reach in the cab market and local deliveries with Bharath Go Parcel.</p>
                 </div>
                 <!--/.section-heading-->
@@ -100,7 +100,7 @@ include('includes/header.php')
             <div class="col-md-6">
                 <div class="section-heading mb-40 wow fade-in-right" data-wow-delay="200ms">
                     <h4><span></span>About Our Team </h4>
-                    <h2>Feel the difference and Relaxation with Ridek Taxi Company!</h2>
+                    <h2>Feel the difference and Relaxation with BharatGo Taxi Company!</h2>
                     <p>Team Bharath Go is a group of dedicated people. They work together to reach their goals. The manager guides everyone, making sure tasks are clear. Each team member has a role, and they all support each other. Together, they solve problems and grow. The manager leads with care and helps the team stay focused.</p>
                 </div>
                 <!--/.section-heading-->
@@ -137,7 +137,7 @@ include('includes/header.php')
     <div class="container">
         <div class="section-heading text-center mb-40 wow fade-in-bottom" data-wow-delay="200ms">
             <h4><span></span>What We Offer</h4>
-            <h2 class="white">Start your journey with<br>Ridek Taxi Company!</h2>
+            <h2 class="white">Start your journey with<br>BharatGo Taxi Company!</h2>
             <p>We successfully cope with tasks of varying complexity, provide long-term <br>guarantees and regularly
                 master new technologies.</p>
         </div>
@@ -187,7 +187,7 @@ include('includes/header.php')
                                 <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
                             </div>
                             <div class="service-content">
-                                <h3><a href="service-details.html">Ride Booking</a></h3>
+                                <h3><a href="service-details.php">Ride Booking</a></h3>
                                 <p>Book rides easily with Bharathgo! Choose from cabs or bikes for a quick, comfortable trip. Fast booking, affordable rates, and friendly drivers make every ride smooth. Your journey is made easy.</p>
                                
                             </div>
@@ -290,10 +290,10 @@ include('includes/header.php')
                             
                             <div class="post-content">
                                 <h3>
-                                    <a href="./blogs/safety-tips.html" class="hover">Top 5 Safety Tips for Riders and Passengers Using Bharath Go Bike Taxi </a>
+                                    <a href="./blogs/safety-tips.php" class="hover">Top 5 Safety Tips for Riders and Passengers Using Bharath Go Bike Taxi </a>
                                 </h3>
                                 <p>Bike taxis are a short, easy, and reasonably priced manner to get around crowded city areas. It's much less high priced than other modes of transportation and enables you to get through site visitors very quickly. Our primary priority at Bharath Go is safety. Here are the top five protection recommendations that every passengers and riders have to pass with the aid to make sure every ride is happy and secure.</p>
-                                <a href="./blogs/safety-tips.html" class="read-more">Read More</a>
+                                <a href="./blogs/safety-tips.php" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -308,10 +308,10 @@ include('includes/header.php')
                            
                             <div class="post-content">
                                 <h3>
-                                    <a href="./blogs/one-stop-solution-for-all-driver-needs.html">Your One-Stop Solution for All Driver Needs at Bharath Go </a>
+                                    <a href="./blogs/one-stop-solution-for-all-driver-needs.php">Your One-Stop Solution for All Driver Needs at Bharath Go </a>
                                 </h3>
                                 <p>In today’s fast-paced world drivers face many challenges, from Managing fuel prices to navigating customers. Bharath Go is aware of these demands and provides a range of contemporary services aimed at making driving more enjoyable for all. Whether you’re an everyday traveller or someone seeking to maximize your travel performance, Bharath Go has you covered. </p>
-                                <a href="./blogs/one-stop-solution-for-all-driver-needs.html" class="read-more">Read More</a>
+                                <a href="./blogs/one-stop-solution-for-all-driver-needs.php" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -326,10 +326,10 @@ include('includes/header.php')
                             
                             <div class="post-content">
                                 <h3>
-                                    <a href="./blogs/finding-the-best-taxi option-in-your-budget.html">Finding the Best Taxi Option in Your budget with BharathGo </a>
+                                    <a href="./blogs/finding-the-best-taxi option-in-your-budget.php">Finding the Best Taxi Option in Your budget with BharathGo </a>
                                 </h3>
                                 <p>In today’s busy world, taxis offer a brief and convenient way to get around without the pressure of driving. With alternatives like bike taxis, auto taxis, and car taxis, it could be difficult to locate the proper choice for your needs and finances. BharathGo helps you find an exceptional choice at a nice rate, making it easy to pick out your experience. </p>
-                                <a href="./blogs/finding-the-best-taxi option-in-your-budget.html" class="read-more">Read More</a>
+                                <a href="./blogs/finding-the-best-taxi option-in-your-budget.php" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -354,7 +354,7 @@ include('includes/header.php')
                                 <p class="white">With Bharathgo, drivers get the opportunity to earn competitive rates, making each trip worthwhile. Our optimized routing and real-time updates mean you spend less time waiting and more time earning.</p>
                             </div>
                             <!--/.section-heading-->
-                            <ul class="ridek-features">
+                            <ul class="BharatGo-features">
                                 <li>
                                     <div class="feature-icon">
                                         <i class="las la-gem"></i>
@@ -392,11 +392,11 @@ include('includes/header.php')
                     <div class="feature-wrap">
                         <div class="section-heading mb-30">
                             <h4 class="white"><span></span>Why Choose Us for Customers </h4>
-                            <h2 class="white">Why Ride with Ridek?</h2>
+                            <h2 class="white">Why Ride with BharatGo?</h2>
                             <p class="white">We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master technologies.</p>
                         </div>
                         <!--/.section-heading-->
-                        <ul class="ridek-features">
+                        <ul class="BharatGo-features">
                             <li>
                                 <div class="feature-icon">
                                     <i class="las la-gem"></i>
