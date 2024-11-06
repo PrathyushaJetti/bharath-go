@@ -5,14 +5,15 @@
 
 <head>
 
-    
-    
-    
 
     <title><?php $title = isset($meta['title']) ? $meta['title'] : 'Bharat Go';
     echo $title; ?></title>
-    <meta name="description" content="<?php echo $meta['description'] ;?>">
-    <meta name="keywords" content="<?php echo $meta['keywords'] ;?>">
+    <meta name="description" content="<?php 
+    $title = isset($meta['description']) ? $meta['description'] : 'Bharat Go';
+    echo $meta['description'] ;?>">
+    <meta name="keywords" content="<?php 
+    $title = isset($meta['keywords']) ? $meta['keywords'] : 'Bharat Go';
+    echo $meta['keywords'] ;?>">
     
 
 

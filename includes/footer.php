@@ -33,7 +33,7 @@
                                 <li><a href="faqs.php"> FAQ'S </a></li>
                                 <li><a href="privacy.php">  privacy policy </a></li>
                                 <li><a href="terms.php">Terms and Conditions </a></li>
-                                <li><a href="disclimer.php">Disclaimer </a></li>
+                                <li><a href="disclaimer.php">Disclaimer </a></li>
                                 
                             </ul>
                         </div>

@@ -1,12 +1,3 @@
-<?php
-$meta = [
-    'title' => "Get in Touch - Bharath Go | Customer Support & Services",
-    'description' => "For any questions or support, reach out to Bharath here. Just fill out the query form, and we will get back to you as soon as possible. We are here to help you.",
-    'keywords' => "Bharathgo,Contact us,Reach us,Mobile,Phone Number, Email, Address,Customer Service,Business Inquiries,",
-     
-]; 
-?>
-
 <?php include('includes/header.php');?>
 
     <!--/.site-preloader-->

@@ -10,12 +10,13 @@
     });
 
     $(document).ready(function () {
+
         // Sticky Header
         function stickyHeader() {
             var primaryHeader = $(".nav-menu-wrapper"),
                 headerClone = primaryHeader.clone();
             $(".main-header").after('<div class="sticky-header"></div>');
-            $(".sticky-header").php(headerClone);
+            $(".sticky-header").html(headerClone);
 
             var headerSelector = document.querySelector(".sticky-header"),
                 triggerPoint = $(".main-header").height(),
