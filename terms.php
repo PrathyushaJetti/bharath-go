@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!-->
+
 <html class="no-js" lang="en">
 <!--<![endif]-->
 
@@ -34,12 +31,7 @@
 </head>
 
 <body>
-    <!--[if lt IE 8]>
-	<p class="browserupgrade">
-        You are using an <strong>outdated</strong> browser. Please
-        <a href="http://browsehappy.com/">upgrade your browser</a> to improve
-        your experience.
-	</p><![endif]-->
+
 
     <div class="site-preloader">
         <div class="car">
@@ -68,9 +60,9 @@
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
-                            <li><a href="faqs.html">Help</a></li>
-                            <li><a href="contact.html">Support</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
+                            <li><a href="faqs.php">Help</a></li>
+                            <li><a href="contact-us.html">Support</a></li>
+                            <li><a href="faqs.php">FAQ</a></li>
                         </ul>
                         <ul class="header-social-share">
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -106,6 +98,8 @@
                             <div class="header-info-text">
                                 <h3><span>Email now</span>Info.ridek@mail.com</h3>
                             </div>
+
+
                         </li>
                         <li>
                             <div class="header-info-icon">
@@ -136,7 +130,7 @@
                                     <li><a href="index-2.html">Home Modern</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown_menu">
+                            <li class="active dropdown_menu">
                                 <a href="about-us.html">Company</a>
                                 <ul>
                                     <li><a href="about-us.html">About Us</a></li>
@@ -153,25 +147,25 @@
                                     <li><a href="taxi-details.html">Taxi Details</a></li>
                                 </ul>
                             </li>
-                            <li class="active dropdown_menu">
+                            <li class="dropdown_menu">
                                 <a href="#">Pages</a>
                                 <ul>
                                     <li><a href="our-drivers.html">Our Drivers</a></li>
                                     <li><a href="driver-details.html">Driver Details</a></li>
                                     <li><a href="testimonials.html">Customer Reviews</a></li>
-                                    <li><a href="faqs.html">Help &amp; Faq's</a></li>
+                                    <li><a href="faqs.php">Help &amp; Faq's</a></li>
                                     <li><a href="404.html">404 Error</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown_menu">
-                                <a href="blog-grid.html">Blog</a>
+                                <a href="blog.html">Blog</a>
                                 <ul>
-                                    <li><a href="blog-grid.html">Grid Posts</a></li>
+                                    <li><a href="blog.html">Grid Posts</a></li>
                                     <li><a href="blog-classic.html">Classic Posts</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact-us.html">Contact</a></li>
                         </ul>
                     </div>
                     <div class="menu-right-item">
@@ -234,176 +228,114 @@
         <div class="page-header-shape"></div>
         <div class="container">
             <div class="page-header-info">
-                <h4>Service Details!</h4>
-                <h2>Our expert drivers will <br>make your <span>Ride Safe!</span></h2>
+                <h4>About Us!</h4>
+                <h2>Feel your journey <br> with <span>Ridek!</span></h2>
                 <p>Everything your taxi business <br>needs is already here! </p>
             </div>
         </div>
     </section>
-    <!--/.page-header-->
-
-    <section class="driver-details-section bd-bottom padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="section-heading mb-40">
-                        <h4><span></span>About The Driver!</h4>
-                        <h2>Mauricio Fernández</h2>
-                        <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Book your taxi from anywhare today!</p>
-                    </div>
-                    <ul class="about-info">
-                        <li>
-                            <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                            <div class="owner">
-                                <h4>Founder - CEO</h4>
-                                <img class="signature" src="assets/img/signature.png" alt="signature">
-                            </div>
-                        </li>
-                        <li>
-                            <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6">
-                    <div class="driver-details">
-                        <img src="assets/img/team-details.jpg" alt="img">
-                        <div class="experience-box">
-                            <h3><span>12+</span>Years Of <br> Experiences!</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/.driver-details-->
-     <!--/.page-header-->
-
-     <section class="driver-details-section bd-bottom padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="driver-details">
-                        <img src="assets/img/team-details.jpg" alt="img">
-                        <div class="experience-box">
-                            <h3><span>12+</span>Years Of <br> Experiences!</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="section-heading mb-40">
-                        <h4><span></span>About The Driver!</h4>
-                        <h2>Mauricio Fernández</h2>
-                        <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Book your taxi from anywhare today!</p>
-                    </div>
-                    <ul class="about-info">
-                        <li>
-                            <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                            <div class="owner">
-                                <h4>Founder - CEO</h4>
-                                <img class="signature" src="assets/img/signature.png" alt="signature">
-                            </div>
-                        </li>
-                        <li>
-                            <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
-                        </li>
-                    </ul>
-                </div>
-              
-            </div>
-        </div>
-    </section>
-    <!--/.driver-details-->
-     <!--/.page-header-->
-
-     <section class="driver-details-section bd-bottom padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="section-heading mb-40">
-                        <h4><span></span>About The Driver!</h4>
-                        <h2>Mauricio Fernández</h2>
-                        <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Book your taxi from anywhare today!</p>
-                    </div>
-                    <ul class="about-info">
-                        <li>
-                            <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                            <div class="owner">
-                                <h4>Founder - CEO</h4>
-                                <img class="signature" src="assets/img/signature.png" alt="signature">
-                            </div>
-                        </li>
-                        <li>
-                            <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6">
-                    <div class="driver-details">
-                        <img src="assets/img/team-details.jpg" alt="img">
-                        <div class="experience-box">
-                            <h3><span>12+</span>Years Of <br> Experiences!</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/.driver-details-->
 
 
-    <section class="testimonial-section-2 bg-grey padding">
-        <div class="container">
-            <div class="section-heading text-center mb-40">
-                <h4><span></span>Clients Testimonial</h4>
-                <h2>Ridek Passenger Reviews...</h2>
-                <p>We successfully cope with tasks of varying complexity, provide long-term <br> guarantees and regularly master technologies.</p>
+
+    <!--body added -->
+    <main class="wrap">
+        <section class="container">
+            <div class="container__heading">
+                <h1 style="text-align: center; color: goldenrod;">Terms & Conditions</h1>
             </div>
-            <div class="swiper-outside testi-pagination">
-                <div class="testimonial-carousel-2 swiper-container">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="testi-item">
-                                <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                <p>Good to have transportation available in places and times it is otherwise hard to find, but the app has always been a bit difficult to use especially how it works or doesnt with large font phone settings.</p>
-                                <div class="testi-author">
-                                    <div class="author-thumb"><img src="assets/img/comment-1.png" alt="author"></div>
-                                    <div class="author-info">
-                                        <h3>Eredrik Johanson <span>Financial .INC</span></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="testi-item">
-                                <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                <p>Good to have transportation available in places and times it is otherwise hard to find, but the app has always been a bit difficult to use especially how it works or doesnt with large font phone settings.</p>
-                                <div class="testi-author">
-                                    <div class="author-thumb"><img src="assets/img/comment-2.png" alt="author"></div>
-                                    <div class="author-info">
-                                        <h3>Mauricio Fernández <span>Financial .INC</span></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="testi-item">
-                                <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                <p>Good to have transportation available in places and times it is otherwise hard to find, but the app has always been a bit difficult to use especially how it works or doesnt with large font phone settings.</p>
-                                <div class="testi-author">
-                                    <div class="author-thumb"><img src="assets/img/comment-3.png" alt="author"></div>
-                                    <div class="author-info">
-                                        <h3>Javier F. Arébalo <span>Financial .INC</span></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-pagination text-center"></div><!-- Carousel Dots -->
+            <h2> Terms & Conditions for User </h2>
+            <div class="container__content">
+                <p>
+                    Bharathgo offers a convenient way to book rides using two-wheelers, autos, and cabs through its app
+                    and website. By using Bharathgo, you agree to follow these terms and conditions. Here’s a simple
+                    summary of how Bharathgo works and what you need to know as a user.
+                </p>
+                <h3> General Use </h3>
+                <p>You must be at least 18 years old to use Bharathgo. When you register, you’ll need to provide
+                    accurate information and keep your account details safe. Sharing, duplicating, or creating multiple
+                    accounts is not allowed, and any misuse could lead to account termination.
+
+                    . </p>
+                <h3> Services and Payment </h3>
+                <p>Bharathgo connects you with drivers but does not directly provide transportation services. Your
+                    contract for the ride or delivery is with the driver. Prices for rides are shown on the app, and you
+                    can pay either through the app or in cash. Bharathgo does not handle cash disputes, so it’s
+                    important to confirm the amount with the driver directly. </p>
+                <h3> User Conduct</h3>
+                <p>Bharathgo expects users to respect its platform and drivers. Actions like tampering with the app,
+                    uploading illegal content, or harming drivers are strictly prohibited. Misuse of Bharathgo’s
+                    emergency feature could also lead to penalties. </p>
+                <h3>Privacy and Safety </h3>
+                <p>Bharathgo has an emergency alert feature in the app for your safety, but it should only be used in
+                    real emergencies. The app collects personal information to improve its services, in line with its
+                    Privacy Policy. Users must also keep their accounts and data secure.</p>
+                <h3> Liability and Disputes </h3>
+                <p> Bharathgo is not responsible for the actions of drivers or the quality of their vehicles. If there
+                    are any issues during a ride, you’ll need to address them directly with the driver</p>
+                <h3> Address </h3>
+                <p> Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad,
+                    Telangana 500082
+
+                </p>
+                <h3>Phone </h3>
+                <p> 6303548105 </p>
+                <h2> Terms and Conditions for Drivers </h2>
+                <p> This document is an electronic record under the Information Technology Act, of 2000, providing terms
+                    and conditions for Drivers offering bike, auto, or cab services through the Bharathgo platform.
+
+                </p>
+                <h3> General Overview </h3>
+                <p> Bharathgo offers a technology platform for Drivers (service providers) to connect with customers,
+                    allowing Drivers to provide on-demand transportation and delivery services using their vehicles.
+                    These terms govern the relationship between Bharathgo and Drivers, requiring Drivers to meet
+                    specific standards, provide accurate information, and adhere to all policies and legal requirements.
+                </p>
+                <h3> Registration and Use of the Platform </h3>
+                <p>To become a Driver, you must meet specific onboarding requirements, be at least 18 years old, and
+                    provide necessary documentation. Upon registering, you gain access to the platform where you can
+                    receive service requests from customers. You are responsible for maintaining the confidentiality of
+                    your account information and are accountable for any activities within your account. Bharathgo is
+                    not liable for unauthorized access to your account due to lost or shared credentials.</p>
+                <h3> Conduct Expectations </h3>
+                <p> Drivers must maintain professionalism, follow traffic regulations, and avoid any illegal activities,
+                    such as using drugs or alcohol during service. They must also take necessary safety breaks as
+                    required by law and ensure they meet Bharathgo's standards for conduct and appearance. Drivers agree
+                    not to share, misuse, or distribute any confidential information accessed through the platform.</p>
+                <h3> Payment Terms </h3>
+                <p> Bharathgo charges customers a convenience fee for services facilitated by the platform. For direct
+                    payments collected by Drivers from customers, Bharathgo deducts any owed convenience fees
+                    accordingly. Drivers are solely responsible for collecting and remitting taxes associated with the
+                    services they provide.</p>
+                <h3>
+                    Confidentiality and Proprietary Rights
+                </h3>
+                <p> Drivers must keep confidential all customer data, platform details, and information shared by
+                    Bharathgo. The platform and its contents remain the property of Bharathgo, and unauthorized
+                    distribution or modification is prohibited. Bharathgo retains the right to monitor and analyze
+                    platform usage anonymously to improve services. </p>
+                <h3> Termination </h3>
+                <p> Bharathgo may suspend or terminate a Driver’s access to the platform for any breaches of these
+                    terms, misuse, or actions that harm Bharathgo’s business interests. Upon termination, Drivers must
+                    cease platform use and return any property or materials to Bharathgo.</p>
+                <h3> Amendments and Updates </h3>
+                <p> Bharathgo may update these terms as needed. Drivers are responsible for regularly reviewing any
+                    updates posted on the platform. By continuing to use the platform, you acknowledge and accept any
+                    updates to the terms.</p>
+                <h3>Address </h3>
+                <p> Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad,
+                    Telangana 500082</p>
+
             </div>
-        </div>
-    </section>
-    <!--/.testimonial-section-->
+            <div class="container__nav">
+                <small>By clicking 'Accept' you are agreeing to our terms and conditions.</small>
+                <a class="button" href="#">Accept</a>
+            </div>
+        </section>
+    </main>
+    <!-- body ended-->
+
+
+
 
     <footer class="footer-section">
         <div class="footer-top-wrap">
@@ -412,8 +344,10 @@
                     <div class="row align-items-end">
                         <div class="col-lg-8">
                             <div class="brand">
-                                <a class="footer-logo" href="index.html"><img src="assets/images/bharath-go.png" alt="logo"></a>
-                                <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
+                                <a class="footer-logo" href="index.html"><img src="assets/images/bharath-go.png"
+                                        alt="logo"></a>
+                                <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to
+                                    go.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -449,10 +383,10 @@
                             </div>
                             <ul class="footer-links">
                                 <li><a href="book-taxi.html">Taxi Booking</a></li>
-                                <li><a href="faqs.html">Help Center</a></li>
+                                <li><a href="faqs.php">Help Center</a></li>
                                 <li><a href="about-us.html">Privacy and Policy</a></li>
                                 <li><a href="about-company.html">Terms of Use</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact-us.html">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -462,7 +396,8 @@
                                 <h3>Head Office</h3>
                             </div>
                             <ul class="footer-contact">
-                                <li><span>Location:</span>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
+                                <li><span>Location:</span>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road,
+                                    Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
                                 <li><span>Join Us:</span>Info@YourGmail24.com</li>
                             </ul>
                         </div>
@@ -473,7 +408,8 @@
                                 <h3>Newsletter Signup</h3>
                             </div>
                             <form action="#" class="subscribe-form">
-                                <input class="form-control" type="email" name="email" placeholder="Your Email" required="">
+                                <input class="form-control" type="email" name="email" placeholder="Your Email"
+                                    required="">
                                 <input type="hidden" name="action" value="mailchimpsubscribe">
                                 <button class="submit">Subscribe Now</button>
                                 <div class="clearfix"></div>
@@ -491,7 +427,7 @@
         <!--/.footer-mid-wrap-->
         <div class="copyright-wrap">
             <div class="container">
-                  <p>© <span>2022</span> Bharath Go All Rights Reserved</p>
+                <p>© <span>2022</span> Bharath Go All Rights Reserved</p>
             </div>
         </div>
         <!--/.copyright-wrap-->

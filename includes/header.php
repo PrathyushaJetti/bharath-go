@@ -4,12 +4,16 @@
 
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ridek Online Taxi Booking HTML5 Template">
-    <meta name="author" content="DynamicLayers">
 
-    <title>iuasdiusdah</title>
+    
+    
+    
+
+    <title><?php echo $meta['title'] ;?></title>
+    <meta name="description" content="<?php echo $meta['description'] ;?>">
+    <meta name="keywords" content="<?php echo $meta['keywords'] ;?>">
+    
+
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/bharath-go.png">
 
@@ -59,9 +63,9 @@
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
-                            <li><a href="faqs.html">Help</a></li>
-                            <li><a href="contact.html">Support</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
+                            <li><a href="faqs.php">Help</a></li>
+                            <li><a href="contact-us.html">Support</a></li>
+                            <li><a href="faqs.php">FAQ</a></li>
                         </ul>
                         <ul class="header-social-share">
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -117,30 +121,30 @@
                     <div class="header-menu-wrap">
                         <ul class="nav-menu">
                             <li class="active dropdown_menu">
-                                <a href="index.html">Home</a>
+                                <a href="index.php">Home</a>
                                 
                             </li>
                             <li class="dropdown_menu">
-                                <a href="about-us.html">About Us</a>
+                                <a href="about-us.php">About Us</a>
                                 
                             </li>
                             <li class="dropdown_menu">
-                                <a href="our-services.html"> Services </a>
+                                <a href="our-services.php"> Services </a>
                             </li>
                             <li class="dropdown_menu">
-                                <a href="safety.html">
+                                <a href="safety.php">
                                     Safety</a>
  
                             </li>
                             <li class="dropdown_menu">
-                                <a href="career.html">Careers</a>
+                                <a href="career.php">Careers</a>
                                 
                             </li>
                             <li class="dropdown_menu">
-                                <a href="blog-grid.html">Blog</a>
+                                <a href="blog.php">Blog</a>
                                 
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact-us.php">Contact</a></li>
                         </ul>
                     </div>
                     <div class="menu-right-item">

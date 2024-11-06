@@ -30,10 +30,10 @@
                                 <h3>Quick Links </h3>
                             </div>
                             <ul class="footer-links">
-                                <li><a href="index.html"> FAQ'S </a></li>
-                                <li><a href="about-us.html">  privacy policy </a></li>
-                                <li><a href="our-services.html">Terms and Conditions </a></li>
-                                <li><a href="safety.html">Disclaimer </a></li>
+                                <li><a href="faqs.php"> FAQ'S </a></li>
+                                <li><a href="privacy.php">  privacy policy </a></li>
+                                <li><a href="terms.php">Terms and Conditions </a></li>
+                                <li><a href="disclimer.php">Disclaimer </a></li>
                                 
                             </ul>
                         </div>
@@ -44,13 +44,13 @@
                                 <h3>Usefull Links</h3>
                             </div>
                             <ul class="footer-links">
-                                <li><a href="index.html"> Home </a></li>
-                                <li><a href="about-us.html">About Us </a></li>
-                                <li><a href="our-services.html">Services </a></li>
-                                <li><a href="safety.html">Safety </a></li>
-                                <li><a href="career.html">Careers </a></li>
-                                <li><a href="blog.html"> Blog </a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="index.php"> Home </a></li>
+                                <li><a href="about-us.php">About Us </a></li>
+                                <li><a href="our-services.php">Services </a></li>
+                                <li><a href="safety.php">Safety </a></li>
+                                <li><a href="career.php">Careers </a></li>
+                                <li><a href="blog.php"> Blog </a></li>
+                                <li><a href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

@@ -68,9 +68,9 @@
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
-                            <li><a href="faqs.html">Help</a></li>
-                            <li><a href="contact.html">Support</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
+                            <li><a href="faqs.php">Help</a></li>
+                            <li><a href="contact-us.html">Support</a></li>
+                            <li><a href="faqs.php">FAQ</a></li>
                         </ul>
                         <ul class="header-social-share">
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -136,7 +136,7 @@
                                     <li><a href="index-2.html">Home Modern</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown_menu">
+                            <li class="active dropdown_menu">
                                 <a href="about-us.html">Company</a>
                                 <ul>
                                     <li><a href="about-us.html">About Us</a></li>
@@ -159,19 +159,19 @@
                                     <li><a href="our-drivers.html">Our Drivers</a></li>
                                     <li><a href="driver-details.html">Driver Details</a></li>
                                     <li><a href="testimonials.html">Customer Reviews</a></li>
-                                    <li><a href="faqs.html">Help &amp; Faq's</a></li>
+                                    <li><a href="faqs.php">Help &amp; Faq's</a></li>
                                     <li><a href="404.html">404 Error</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown_menu">
-                                <a href="blog-grid.html">Blog</a>
+                                <a href="blog.html">Blog</a>
                                 <ul>
-                                    <li><a href="blog-grid.html">Grid Posts</a></li>
+                                    <li><a href="blog.html">Grid Posts</a></li>
                                     <li><a href="blog-classic.html">Classic Posts</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li class="active"><a href="contact.html">Contact</a></li>
+                            <li><a href="contact-us.html">Contact</a></li>
                         </ul>
                     </div>
                     <div class="menu-right-item">
@@ -230,113 +230,79 @@
     <!--/.popup-sidebox-->
     <div id="sidebox-overlay"></div>
 
-    <div class="map-wrapper pt-90">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3177.2274750192864!2d78.4530858712452!3d17.424981965209124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb97f1145d796f%3A0xcabdc983c88ef0eb!2sASWGroupIndia%20-%20Somajiguda%20Head%20Office!5e1!3m2!1sen!2sin!4v1730786298014!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div><!-- /#google-map -->
+    <section class="page-header">
+        <div class="page-header-shape"></div>
+        <div class="container">
+            <div class="page-header-info">
+                <h4>Get Your Cab!</h4>
+                <h2>Book Your <span>Ride</span></h2>
+                <p>Everything your taxi business <br>needs is already here! </p>
+            </div>
+        </div>
+    </section>
+    <!--/.page-header-->
 
-    <section class="contact-section bd-bottom padding">
-        <div class="map"></div>
+    <div class="taxi-booking bg-grey padding">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="contact-details-wrap">
-                        <div class="contact-title">
-                            <h2>Have Any <span>Questions?</span></h2>
-                            <p>Get in touch to discuss your employee wellbeing needs today. Please give us a call, drop us an email or fill out the contact form.</p>
+                <div class="col-lg-10 offset-lg-1">
+                    <form action="book-ride.php" id="book-taxi-ride">
+                        <div class="taxi-booking-form">
+                            <div class="form-field">
+                                <i class="las la-user-tie"></i>
+                                <input type="text" id="full-name" name="full-name" class="form-control" placeholder="Your Name" required>
+                            </div>
+                            <div class="form-field">
+                                <i class="las la-envelope-open"></i>
+                                <input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
+                            </div>
+                            <div class="form-field">
+                                <i class="las la-tags"></i>
+                                <select name="package-type" id="package-type" class="niceSelect">
+                                    <option value="standard">Standard</option>
+                                    <option value="business">Business</option>
+                                    <option value="economy">Economy</option>
+                                    <option value="vip-spacial">VIP Spacial</option>
+                                    <option value="comfort">Comfort</option>
+                                </select>
+                            </div>
+                            <div class="form-field">
+                                <i class="las la-user-friends"></i>
+                                <select name="passengers" id="passengers" class="niceSelect">
+                                    <option value="1">1 Person</option>
+                                    <option value="2">2 Person</option>
+                                    <option value="3">3 Person</option>
+                                    <option value="4">4 Person</option>
+                                    <option value="5">5 Person</option>
+                                </select>
+                            </div>
+                            <div class="form-field">
+                                <i class="las la-map-marker"></i>
+                                <input type="text" id="start-dest" name="start-dest" class="form-control" placeholder="Start Destination" required>
+                            </div>
+                            <div class="form-field">
+                                <i class="las la-map-marker"></i>
+                                <input type="text" id="end-dest" name="end-dest" class="form-control" placeholder="End Destination" required>
+                            </div>
+                            <div class="form-field">
+                                <i class="las la-calendar"></i>
+                                <input type="text" id="ride-date" name="ride-date" class="form-control date-picker" placeholder="Select Date" required>
+                            </div>
+                            <div class="form-field">
+                                <i class="las la-clock"></i>
+                                <input type="text" id="ride-time" name="ride-time" class="form-control time-picker" placeholder="Select Time" required>
+                            </div>
+                            <div class="form-field">
+                                <button id="submit" class="default-btn" type="submit">Book Your Taxi</button>
+                            </div>
                         </div>
-                        <ul class="contact-details">
-                            <li><i class="fas fa-map-marker-alt"></i>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
-                            <li><i class="fas fa-envelope"></i>hello@themeaster.net <br>Yourmail@gmail.com</li>
-                            <li><i class="fas fa-phone"></i> 6303548105 <br> 6303548105</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="contact-form">
-                        <form action="contact.php" method="post" id="ajax_contact" class="form-horizontal">
-                            <div class="contact-title">
-                                <h2>Contact With Us! <span></span></h2>
-                            </div>
-                            <div class="contact-form-group">
-                                <div class="form-field">
-                                    <input type="text" id="firstname" name="firstname" class="form-control" placeholder="First Name" required>
-                                </div>
-                                <div class="form-field">
-                                    <input type="text" id="lastname" name="lastname" class="form-control" placeholder="Last Name" required>
-                                </div>
-                                <div class="form-field">
-                                    <input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
-                                </div>
-                                <div class="form-field">
-                                    <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone Number" required>
-                                </div>
-                                <div class="form-field message">
-                                    <textarea id="message" name="message" cols="30" rows="4" class="form-control" placeholder="Message" required></textarea>
-                                </div>
-                                <div class="form-field">
-                                    <button id="submit" class="default-btn" type="submit">Send Massage</button>
-                                </div>
-                            </div>
-                            <div id="form-messages" class="alert" role="alert"></div>
-                        </form>
-                    </div>
+                        <div id="form-messages" class="alert" role="alert"></div>
+                    </form><!-- Booking Form -->
                 </div>
             </div>
         </div>
-    </section>
-    <!--/.contact-section-->
-
-    <section class="branches-section bg-grey padding">
-        <div class="container">
-            <div class="row branches-lists">
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Sydney (Head Office)</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Brisbane</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Hobart</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Melbourne</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/.branches-section-->
+    </div>
+    <!--/.booking-form-->
 
     <footer class="footer-section">
         <div class="footer-top-wrap">
@@ -382,10 +348,10 @@
                             </div>
                             <ul class="footer-links">
                                 <li><a href="book-taxi.html">Taxi Booking</a></li>
-                                <li><a href="faqs.html">Help Center</a></li>
+                                <li><a href="faqs.php">Help Center</a></li>
                                 <li><a href="about-us.html">Privacy and Policy</a></li>
                                 <li><a href="about-company.html">Terms of Use</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact-us.html">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -455,7 +421,7 @@
     <script src="assets/js/vendor/venobox.min.js"></script>
     <script src="assets/js/vendor/smooth-scroll.js"></script>
     <script src="assets/js/vendor/wow.min.js"></script>
-    <script src="assets/js/contact.js"></script>
+    <script src="assets/js/book-ride.js"></script>
     <script src="assets/js/main.js"></script>
 </body>
 

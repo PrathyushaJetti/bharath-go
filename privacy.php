@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!-->
+
 <html class="no-js" lang="en">
 <!--<![endif]-->
 
@@ -34,12 +31,7 @@
 </head>
 
 <body>
-    <!--[if lt IE 8]>
-	<p class="browserupgrade">
-        You are using an <strong>outdated</strong> browser. Please
-        <a href="http://browsehappy.com/">upgrade your browser</a> to improve
-        your experience.
-	</p><![endif]-->
+
 
     <div class="site-preloader">
         <div class="car">
@@ -68,9 +60,9 @@
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
-                            <li><a href="faqs.html">Help</a></li>
-                            <li><a href="contact.html">Support</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
+                            <li><a href="faqs.php">Help</a></li>
+                            <li><a href="contact-us.html">Support</a></li>
+                            <li><a href="faqs.php">FAQ</a></li>
                         </ul>
                         <ul class="header-social-share">
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -106,6 +98,8 @@
                             <div class="header-info-text">
                                 <h3><span>Email now</span>Info.ridek@mail.com</h3>
                             </div>
+
+
                         </li>
                         <li>
                             <div class="header-info-icon">
@@ -159,19 +153,19 @@
                                     <li><a href="our-drivers.html">Our Drivers</a></li>
                                     <li><a href="driver-details.html">Driver Details</a></li>
                                     <li><a href="testimonials.html">Customer Reviews</a></li>
-                                    <li><a href="faqs.html">Help &amp; Faq's</a></li>
+                                    <li><a href="faqs.php">Help &amp; Faq's</a></li>
                                     <li><a href="404.html">404 Error</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown_menu">
-                                <a href="blog-grid.html">Blog</a>
+                                <a href="blog.html">Blog</a>
                                 <ul>
-                                    <li><a href="blog-grid.html">Grid Posts</a></li>
+                                    <li><a href="blog.html">Grid Posts</a></li>
                                     <li><a href="blog-classic.html">Classic Posts</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact-us.html">Contact</a></li>
                         </ul>
                     </div>
                     <div class="menu-right-item">
@@ -234,112 +228,91 @@
         <div class="page-header-shape"></div>
         <div class="container">
             <div class="page-header-info">
-                <h4>Service Details!</h4>
+                <h4>About Us!</h4>
                 <h2>Feel your journey <br> with <span>Ridek!</span></h2>
                 <p>Everything your taxi business <br>needs is already here! </p>
             </div>
         </div>
     </section>
-    <!--/.page-header-->
 
-    <section class="service-details bg-grey padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 sm-padding">
-                    <div class="service-details-info">
-                        <img src="assets/img/post-2.jpg" alt="img">
-                        <h2>Comfortable Business Transport Services!</h2>
-                        <p>Financial experts support or help you to to find out which way you can raise your funds more. Arkit a trusted name for providing assistants. Initially their main objective was to ensure the service they provide these people are loyal to their industry.</p>
-                        <p>Unless you are the one who really cares about this, it is not terribly important. What all matters are how your hybrid mobile application development is going to work in the long run as no one will care about how it was built.</p>
-                        <ul class="service-features">
-                            <li>
-                                <div><i class="las la-shipping-fast"></i></div>
-                                <div>
-                                    <h3>Fast &amp; Easy Pickups</h3>
-                                    <p>Everything your taxi business needs is already here!</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div><i class="las la-taxi"></i></div>
-                                <div>
-                                    <h3>Instant Car Provide</h3>
-                                    <p>Everything your taxi business needs is already here!</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div><i class="las la-tachometer-alt"></i></div>
-                                <div>
-                                    <h3>Save Expert Drive</h3>
-                                    <p>Everything your taxi business needs is already here!</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div><i class="las la-user-astronaut"></i></div>
-                                <div>
-                                    <h3>24/7 Support</h3>
-                                    <p>Everything your taxi business needs is already here!</p>
-                                </div>
-                            </li>
-                        </ul>
-                        <p>There are some big shifts taking place in the field of construction equipment mathematics. Starting with the integration of mathematics devices in vehicles right from manufacturers, to the standardization and integration of mathematics data across various business functions, the future of mathematics.</p>
-                        <div class="service-details-list">
-                            <img src="assets/img/post-1.jpg" alt="img">
-                            <div>
-                                <h3>Passenger Benefits!</h3>
-                                <p>Everything your taxi business needs is already here!</p>
-                                <ul class="service-icon-list">
-                                    <li><i class="las la-hand-point-right"></i>Use the latest diagnostic equipment.</li>
-                                    <li><i class="las la-hand-point-right"></i>Automotive service for our clients.</li>
-                                    <li><i class="las la-hand-point-right"></i>Quick dedicated support team.</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 sm-padding">
-                    <div class="service-sidebar sidebar-widget">
-                        <div class="widget-title service-widget">
-                            <h3>Categories</h3>
-                        </div>
-                        <ul>
-                            <li><a href="#">Regular Transport</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">City Transport</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">Airport Transport</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">Long Journey</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">Luggage Transport</a><i class="las la-arrow-right"></i></li>
-                        </ul>
-                    </div>
-                    <div class="sidebar-widget banner">
-                        <div class="banner-info">
-                            <a href="index.html"><img class="logo" src="assets/images/bharath-go.png" alt="logo"></a>
-                            <h3>Feel your journey with <span>Ridek!</span></h3>
-                            <p>Everything your taxi business needs is already here!</p>
-                            <h2 class="discount"><span>-60%</span> Off Today!</h2>
-                            <a href="contact.html" class="default-btn">Get Your Offer Now</a>
-                        </div>
-                    </div>
-                    <div class="sidebar-widget">
-                        <div class="widget-title">
-                            <h3>Tags</h3>
-                        </div>
-                        <ul class="tags">
-                            <li><a href="#">business</a></li>
-                            <li><a href="#">marketing</a></li>
-                            <li><a href="#">startup</a></li>
-                            <li><a href="#">design</a></li>
-                            <li><a href="#">consulting</a></li>
-                            <li><a href="#">strategy</a></li>
-                            <li><a href="#">development</a></li>
-                            <li><a href="#">tips</a></li>
-                            <li><a href="#">Seo</a></li>
-                        </ul>
-                    </div>
-                    <!--Tags-->
-                </div>
+
+
+    <!--body added -->
+    <main class="wrap">
+        <section class="container">
+            <div class="container__heading">
+                <h1 style="text-align: center; color: goldenrod;"> Privacy Policy for Bharathgo </h1>
             </div>
-        </div>
-    </section>
-    <!--/.service-details-->
+          
+            <div class="container__content">
+                <p>
+                   
+Your privacy is important to us at Bharathgo    (referred to as "Bharathgo," "we," "our," or "us"). This Privacy Policy describes how we gather, use, share, and safeguard your personal information when you engage with our services, including our website and mobile app (together referred to as the "Bharathgo Platform"). This policy also covers any communication you may have with us offline, including phone calls or emails.
+
+
+                </p>
+                <p><b>By using the Bharathgo Platform or our services, you agree to follow the terms of this Policy, so please read it carefully. </b></p>
+                <h2>User Consent </h2>
+                <p>When you use the Bharathgo Platform or our services, you give your consent for us to collect, use, and share your information as explained in this Policy. If you do not agree with any part of this Policy, please stop using the Bharathgo Platform.
+
+                    </p>
+                <h2> What Information We Collect</h2>
+                <h3>Personal Information </h3>
+                <p>This includes your name, email address, phone number, address, gender, date of birth, profile photo, and payment information. You provide this information when you create an account or update your profile. </p>
+                <h3> Saved Information </h3>
+                <p> We store details like your phone number, address, and billing information to make future transactions easier</p>
+                 <h3> Verification Information </h3>
+                 <p> If you're a driver ("Captain") or a rental provider 
+                    ("Vendor Partner"), we collect additional details such as identification documents (Aadhaar, PAN, driving license), location data, and vehicle details.
+                    
+                     </p>
+                     <h3> Transaction and Location Data </h3>
+                     <p> We track your trips, including pick-up and drop-off locations, distance traveled, and payment history.</p>
+                     <h3>Device Information </h3>
+                     <p>This includes data like your device's IP address, model, operating system, and screen usage. </p>
+                     <h3>Health Information </h3>
+                     <p> If you're a driver, we may collect health-related information, such as vaccination status, to ensure the safety of our customers. </p>
+                       <h2> How We Use Your Information </h2>
+                        <p><b> How We Use Your Information </b></p>
+                        <ul>
+                            <li> Create your account and verify your identity</li>
+                            <li> Monitor your usage of our services to enhance and refine them</li>
+                            <li>Send necessary communications, such as service updates or account verification messages.</li>
+                            <li> Show you relevant options (like nearby drivers) based on your location.</li>
+                            <li> Ensure safety and security by detecting fraud and preventing abuse. </li>
+                            <li>Adhere to legal requirements and respond to requests from government agencies. </li>
+                            <li>Offer promotions and special deals based on your use of the Bharathgo Platform. </li>
+                        </ul>
+                       <h2> When We Share Your Information </h2>
+                       <h3>With Drivers or Rental Partners </h3>
+                       <p> We share your contact details and pick-up location with the driver or partner providing your ride or rental.</p>
+                    <h3> Service Providers </h3>
+                    <p>We work with third-party providers to help us offer our services, such as hosting the app, processing payments, or performing background checks.</p>
+                    <h3>Marketing and Promotions </h3>
+                    <p>If you choose to participate in any promotions or contests, your information may be shared with partners for those specific activities. </p>
+                    <h3> Legal Requirements </h3>
+                    <p> We may share your information to comply with laws, respond to legal requests, or protect the safety of our customers and the public.</p>
+                 <h2>How We Protect Your Information </h2>
+                 <p> We use security practices like encryption and firewalls to protect your data. However, no system is 100% secure, so we cannot guarantee that unauthorized parties will never be able to access your information. </p>
+                 <h2> Managing Your Account and Information </h2>
+                 <p>You are responsible for making sure your information stays up to date. You can update or delete your personal information by contacting us or through the app. If you wish to stop using our services, you can request to close your account. We retain your information for a limited time after account closure for legal or business purposes, after which it may be anonymized or deleted.</p>
+                 <h2>Policy Updates </h2>
+                 <p> We may revise this policy from time to time to account for updates in our practices or changes in legal requirements. If any major changes are made, we’ll let you know via email or a notification on the app.</p>
+                 <h2>Address </h2>
+                 <p>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082 </p>
+                <h2> Phone </h2>
+                <p> : 6303548105</p>
+                </div>
+            <div class="container__nav">
+                <small>By clicking 'Accept' you are agreeing to our terms and conditions.</small>
+                <a class="button" href="#">Accept</a>
+            </div>
+        </section>
+    </main>
+    <!-- body ended-->
+
+
+
 
     <footer class="footer-section">
         <div class="footer-top-wrap">
@@ -348,8 +321,10 @@
                     <div class="row align-items-end">
                         <div class="col-lg-8">
                             <div class="brand">
-                                <a class="footer-logo" href="index.html"><img src="assets/images/bharath-go.png" alt="logo"></a>
-                                <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
+                                <a class="footer-logo" href="index.html"><img src="assets/images/bharath-go.png"
+                                        alt="logo"></a>
+                                <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to
+                                    go.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -385,10 +360,10 @@
                             </div>
                             <ul class="footer-links">
                                 <li><a href="book-taxi.html">Taxi Booking</a></li>
-                                <li><a href="faqs.html">Help Center</a></li>
+                                <li><a href="faqs.php">Help Center</a></li>
                                 <li><a href="about-us.html">Privacy and Policy</a></li>
                                 <li><a href="about-company.html">Terms of Use</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact-us.html">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -398,7 +373,8 @@
                                 <h3>Head Office</h3>
                             </div>
                             <ul class="footer-contact">
-                                <li><span>Location:</span>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
+                                <li><span>Location:</span>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road,
+                                    Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
                                 <li><span>Join Us:</span>Info@YourGmail24.com</li>
                             </ul>
                         </div>
@@ -409,7 +385,8 @@
                                 <h3>Newsletter Signup</h3>
                             </div>
                             <form action="#" class="subscribe-form">
-                                <input class="form-control" type="email" name="email" placeholder="Your Email" required="">
+                                <input class="form-control" type="email" name="email" placeholder="Your Email"
+                                    required="">
                                 <input type="hidden" name="action" value="mailchimpsubscribe">
                                 <button class="submit">Subscribe Now</button>
                                 <div class="clearfix"></div>
@@ -427,7 +404,7 @@
         <!--/.footer-mid-wrap-->
         <div class="copyright-wrap">
             <div class="container">
-                  <p>© <span>2022</span> Bharath Go All Rights Reserved</p>
+                <p>© <span>2022</span> Bharath Go All Rights Reserved</p>
             </div>
         </div>
         <!--/.copyright-wrap-->
