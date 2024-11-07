@@ -31,9 +31,9 @@
                             </div>
                             <ul class="footer-links">
                                 <li><a href="faqs.php"> FAQ'S </a></li>
-                                <li><a href="privacy.php">  privacy policy </a></li>
+                                <li><a href="privacy.php"> Privacy Policy </a></li>
                                 <li><a href="terms.php">Terms and Conditions </a></li>
-                                <li><a href="disclaimer.php">Disclaimer </a></li>
+                                <li><a href="disclaimer.php">Disclaimer</a></li>
                                 
                             </ul>
                         </div>
@@ -41,7 +41,7 @@
                     <div class="col-lg-3 col-md-6 sm-padding">
                         <div class="footer-item footer-list">
                             <div class="widget-title">
-                                <h3>Usefull Links</h3>
+                                <h3>Useful Links</h3>
                             </div>
                             <ul class="footer-links">
                                 <li><a href="index.php"> Home </a></li>
