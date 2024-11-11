@@ -57,8 +57,8 @@ include('includes/header.php')
                             <p>Get in touch to discuss your employee wellbeing needs today. Please give us a call, drop us an email or fill out the contact form.</p>
                         </div>
                         <ul class="contact-details">
-                            <li><i class="fas fa-map-marker-alt"></i>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
-                            <li><i class="fas fa-envelope"></i>hello@themeaster.net <br>Yourmail@gmail.com</li>
+                            <li><i class="fas fa-map-marker-alt" style="width:100px"></i>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
+                            <li><i class="fas fa-envelope"></i>bharathgo.official@gmail.com</li>
                             <li><i class="fas fa-phone"></i> 6303548105 <br>
                             9121485247 </li>
                         </ul>
@@ -98,6 +98,49 @@ include('includes/header.php')
         </div>
     </section>
     <!--/.contact-section-->
+
+    <!-- Modal HTML -->
+<div id="responseModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Form Submission</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p id="modalMessage"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById("ajax_contact").addEventListener("submit", function(event) {
+        event.preventDefault();
+
+        const formData = new FormData(this);
+
+        fetch("contact.php", {
+            method: "POST",
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("modalMessage").innerText = data.message;
+            $('#responseModal').modal('show');
+        })
+        .catch(error => {
+            document.getElementById("modalMessage").innerText = "An error occurred. Please try again later.";
+            $('#responseModal').modal('show');
+        });
+    });
+</script>
+
 
 
 
