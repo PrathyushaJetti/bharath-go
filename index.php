@@ -1,6 +1,6 @@
 <?php ;
 $meta = [
-    'title' => "Book Online Bikes, Cabs, and Auto Rides Nearby at bharathgo.com",
+    'title' => "Book Online Bikes, Cabs, and Auto Rides Nearby at BharathGo.com",
     'description' => "Need a ride? Book bikes, cabs, or autos on BharathGo! Easy to book, affordable prices, and fast rides for your daily travel. Quick, simple, and budget-friendly.",
     'keywords' => "online booking apps,online cars booking,online bike booking,online auto booking,Cabs near me ,Bike ride app,Bike ride booking ,24/7  cabs service near me,How to book a bike taxi ,late-night ride services,Affordable bike and car rides near me,how to book auto online,online taxi near me,Car Rentals India,book cabs online,book taxi online,Cab services,Cab rental,Long Drives cabs,Bikes in online,bike rental near me,online bike on rent,bike rental nearby",
    
@@ -29,14 +29,13 @@ include('includes/header.php')
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo"></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
-                <li class="call"><span>Call for ride:</span> 6303548105</li>
+                <li class="call"><span>Call for ride:</span> 6303548105<br> 9121485247</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -47,7 +46,7 @@ include('includes/header.php')
         <div class="main-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="slider-img"><img src="assets/img/slider-bg.jpg" alt="img" class="kenburns"
+                    <div class="slider-img"><img src="assets/images/Home Page BG.webp" alt="img" class="kenburns"
                             style="animation-duration: 12000ms; "></div>
                     <div class="car-holder">
                         <img src="assets/img/car-11.png" alt="car" data-animation="car-animation" data-duration="1.5s">
@@ -68,7 +67,7 @@ include('includes/header.php')
                                 </div>
                                 <div class="slider-caption big">
                                     <div class="inner-layer">
-                                        <div data-animation="fade-in-bottom" data-delay="0.5s">Go with BharathGo, <br>Fast, Safe, and Easy
+                                        <div data-animation="fade-in-bottom" data-delay="0.5s">Travel with BharathGo, <br>Fast, Safe, and Easy
                                         </div>
                                     </div>
                                 </div>
@@ -87,7 +86,7 @@ include('includes/header.php')
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="slider-img"><img src="assets/img/slider-bg.jpg" alt="img" class="kenburns"
+                    <div class="slider-img"><img src="assets/images/Bharath-banner.webp" alt="img" class="kenburns"
                             style="animation-duration: 12000ms; "></div>
                     <div class="car-holder">
                         <img src="assets/img/car-11.png" alt="car" data-animation="car-animation" data-duration="1.5s">
@@ -147,11 +146,11 @@ include('includes/header.php')
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="about-img">
-                        <img class="about-img1 wow fade-in-left" data-wow-delay="200ms" src="assets/img/about-1.png"
+                        <img class="about-img1 wow fade-in-left" data-wow-delay="200ms" src="assets/images/TRANSPORT.png"
                             alt="img">
-                        <img class="about-img2 wow fade-in-bottom" data-wow-delay="400ms" src="assets/img/about-2.png"
+                        <img class="about-img2 wow fade-in-bottom" data-wow-delay="400ms" src="assets/images/cars.png"
                             alt="img">
-                        <figure class="round-text"><img src="assets/img/experience-text-round.png" alt="img"></figure>
+                        <figure class="round-text"><img src="assets/images/Bharath Go (6) (1).webp" alt="img"></figure>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -162,15 +161,10 @@ include('includes/header.php')
                     </div>
                     <!--/.section-heading-->
                     <ul class="about-info wow fade-in-right" data-wow-delay="400ms">
-                        <li>
-                            <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                            <div class="owner">
-                                <h4>Founder - CEO</h4>
-                                <img class="signature" src="assets/img/signature.png" alt="signature">
-                            </div>
-                        </li>
+                        
                         <li>
                             <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
+                            <h2><span>Call For Taxi</span><a href="tel:9121485247"> 9121485247</a></h2>
                         </li>
                     </ul>
                 </div>
@@ -195,11 +189,8 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="service-item wow fade-in-bottom" data-wow-delay="200ms">
                                 <div class="service-thumb">
-                                    <img src="assets/img/service-1.jpg" alt="img">
-                                    <div class="service-shape-wrap">
-                                        <div class="service-shape"></div>
-                                    </div>
-                                    <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                                    <img src="assets/images/RENTAL.webp" alt="img">
+                                    
                                 </div>
                                 <div class="service-content">
                                     <h3><a href="#">Vehicle Rentals services</a></h3>
@@ -211,11 +202,8 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="service-item wow fade-in-bottom" data-wow-delay="400ms">
                                 <div class="service-thumb">
-                                    <img src="assets/img/service-2.jpg" alt="img">
-                                    <div class="service-shape-wrap">
-                                        <div class="service-shape"></div>
-                                    </div>
-                                    <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                                    <img src="assets/images/Ride share.webp" alt="img">
+                                    
                                 </div>
                                 <div class="service-content">
                                     <h3><a href="#">Unified Mobility (Rideshare) </a></h3>
@@ -227,15 +215,13 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="service-item wow fade-in-bottom" data-wow-delay="600ms">
                                 <div class="service-thumb">
-                                    <img src="assets/img/service-3.jpg" alt="img">
-                                    <div class="service-shape-wrap">
-                                        <div class="service-shape"></div>
-                                    </div>
+                                    <img src="assets/images/Ride Booking.webp" alt="img">
+                                    
                                     <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
                                 </div>
                                 <div class="service-content">
                                     <h3><a href="service-details.php">Ride Booking</a></h3>
-                                    <p>Book rides easily with Bharathgo! Choose from cabs or bikes for a quick, comfortable trip. Fast booking, affordable rates, and friendly drivers make every ride smooth. Your journey is made easy.</p>
+                                    <p>Book rides easily with BharathGo! Choose from cabs or bikes for a quick, comfortable trip. Fast booking, affordable rates, and friendly drivers make every ride smooth. Your journey is made easy.</p>
                                    
                                 </div>
                             </div>
@@ -243,15 +229,12 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="service-item">
                                 <div class="service-thumb">
-                                    <img src="assets/img/service-4.jpg" alt="img">
-                                    <div class="service-shape-wrap">
-                                        <div class="service-shape"></div>
-                                    </div>
-                                    <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                                    <img src="assets/images/Parcels Sending.webp" alt="img">
+                                    
                                 </div>
                                 <div class="service-content">
-                                    <h3><a href="#">Bharathgo Local (Parcels sending)</a></h3>
-                                    <p>Bharathgo Local offers fast and reliable parcel delivery to local areas with easy pickup and drop-off options. Whether you need a package delivered or want a quick ride, our cabs and bikes are here for you.</p>
+                                    <h3><a href="#">BharathGo Local (Parcels sending)</a></h3>
+                                    <p>BharathGo Local offers fast and reliable parcel delivery to local areas with easy pickup and drop-off options. Whether you need a package delivered or want a quick ride, our cabs and bikes are here for you.</p>
                                    
                                 </div>
                             </div>
@@ -259,15 +242,12 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="service-item">
                                 <div class="service-thumb">
-                                    <img src="assets/img/service-5.jpg" alt="img">
-                                    <div class="service-shape-wrap">
-                                        <div class="service-shape"></div>
-                                    </div>
-                                    <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                                    <img src="assets/images/Subscription &Membership.webp" alt="img">
+                                   
                                 </div>
                                 <div class="service-content">
                                     <h3><a href="#">Subscription and Membership</a></h3>
-                                    <p>Bharathgo's subscription gives you quick rides at lower prices. With a membership, you save more, avoid extra charges, and get priority service. It’s easy, affordable, and helps you travel smoothly.</p>
+                                    <p>BharathGo's subscription gives you quick rides at lower prices. With a membership, you save more, avoid extra charges, and get priority service. It’s easy, affordable, and helps you travel smoothly.</p>
                                     
                                 </div>
                             </div>
@@ -275,15 +255,12 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="service-item">
                                 <div class="service-thumb">
-                                    <img src="assets/img/service-5.jpg" alt="img">
-                                    <div class="service-shape-wrap">
-                                        <div class="service-shape"></div>
-                                    </div>
-                                    <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                                    <img src="assets/images/Corporate Mobility .webp" alt="img">
+                                   
                                 </div>
                                 <div class="service-content">
                                     <h3><a href="#">Corporate Mobility</a></h3>
-                                    <p>Bharathgo offers easy and quick rides for offices, helping employees travel safely every day. It saves time and reduces costs, making corporate transport smooth and reliable for businesses and teams.</p>
+                                    <p>BharathGo offers easy and quick rides for offices, helping employees travel safely every day. It saves time and reduces costs, making corporate transport smooth and reliable for businesses and teams.</p>
                                     
                                 </div>
                             </div>
@@ -388,16 +365,21 @@ include('includes/header.php')
                 <li class="nav-item" role="presentation">
                     <button class="nav-link active" id="hybrid-taxi" data-bs-toggle="tab"
                         data-bs-target="#hybrid-taxi-content" type="button" role="tab"
-                        aria-controls="hybrid-taxi-content" aria-selected="true">Open the App and Enter Details</button>
+                        aria-controls="hybrid-taxi-content" aria-selected="true"> Process</button>
                 </li>
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="town-taxt" data-bs-toggle="tab" data-bs-target="#town-taxi-content"
-                        type="button" role="tab" aria-controls="town-taxi-content" aria-selected="false">Confirm and Choose Payment</button>
+                        type="button" role="tab" aria-controls="town-taxi-content" aria-selected="false"> Open the App and Enter Details</button>
                 </li>
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="limousine-taxi" data-bs-toggle="tab"
                         data-bs-target="#limousine-taxi-content" type="button" role="tab"
-                        aria-controls="limousine-taxi-content" aria-selected="false">Track and Ride</button>
+                        aria-controls="limousine-taxi-content" aria-selected="false">Confirm and Choose Payment</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="limousine-taxi1" data-bs-toggle="tab"
+                        data-bs-target="#limousine-taxi-content1" type="button" role="tab"
+                        aria-controls="limousine-taxi-content1" aria-selected="false">Track and Ride</button>
                 </li>
             </ul>
             <!--Tab Menu-->
@@ -406,203 +388,41 @@ include('includes/header.php')
                     aria-labelledby="hybrid-taxi-content">
                     <div class="row">
                         <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$2.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">BMW X5 2008</a></h3>
-                                    <span class="location">Chicago</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
+                           <img src="assets/images/Open App & Enter The Detailes.webp">
                         </div>
                         <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$3.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">Mercedes‑Benz</a></h3>
-                                    <span class="location">Florida</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
+                        <img src="assets/images/Confirm And Choose Payment.webp"> 
                         </div>
                         <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$4.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">Hyundai 2022</a></h3>
-                                    <span class="location">New York</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
+                        <img src="assets/images/Track & Ride.webp">
                         </div>
                     </div>
                 </div>
                 <div class="tab-pane fade" id="town-taxi-content" role="tabpanel" aria-labelledby="town-taxi-content">
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$2.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">BMW X5 2008</a></h3>
-                                    <span class="location">Chicago</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
+                        <div class="col-lg-6 col-md-6 sm-padding">
+                        <img src="assets/images/Open App & Enter The Detailes.webp">
                         </div>
-                        <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$3.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">Mercedes‑Benz</a></h3>
-                                    <span class="location">Florida</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$4.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">Hyundai 2022</a></h3>
-                                    <span class="location">New York</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="tab-pane fade" id="limousine-taxi-content" role="tabpanel" aria-labelledby="limousine-taxi">
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$2.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">BMW X5 2008</a></h3>
-                                    <span class="location">Chicago</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
+                        <div class="col-lg-6 col-md-6 sm-padding">
+                        <img src="assets/images/Confirm And Choose Payment.webp"> 
                         </div>
-                        <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$3.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">Mercedes‑Benz</a></h3>
-                                    <span class="location">Florida</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 sm-padding">
-                            <div class="pricing-item">
-                                <div class="pricing-head-wrap">
-                                    <div class="pricing-car">
-                                        <img src="assets/img/pricing-car_1" alt="car">
-                                        <div class="price">$4.50/km</div>
-                                    </div>
-                                </div>
-                                <div class="pricing-head">
-                                    <h3><a href="taxi-details.php">Hyundai 2022</a></h3>
-                                    <span class="location">New York</span>
-                                </div>
-                                <ul class="pricing-list">
-                                    <li>Initial Charge: <span>$2.50</span></li>
-                                    <li>Per Mile/KM: <span>$4.20</span></li>
-                                    <li>Per Stopped Trafic: <span>$1.50</span></li>
-                                    <li>Passengers: <span>4 Person</span></li>
-                                    <li><a href="book-taxi.php" class="default-btn">Book Taxi Now</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                       
                     </div>
+
+                </div>
+                <div class="tab-pane fade" id="limousine-taxi-content1" role="tabpanel" aria-labelledby="limousine-taxi1">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 sm-padding">
+                        <img src="assets/images/Track & Ride.webp">
+                        </div>
+                       
+                    </div>
+
                 </div>
             </div><!-- Tab Content -->
         </div>
@@ -667,9 +487,9 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="testi-item">
                                         <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                        <p>  I used Bharathgo’s parcel service, and it was fantastic! My package was delivered quickly and safely, making it super reliable for urgent deliveries. Highly recommend this service!.</p>
+                                        <p>  I used BharathGo’s parcel service, and it was fantastic! My package was delivered quickly and safely, making it super reliable for urgent deliveries. Highly recommend this service!.</p>
                                         <div class="testi-author">
-                                            <div class="author-thumb"><img src="assets/img/comment-1.png" alt="author">
+                                            <div class="author-thumb"><img src="assets/images/testimonial-neelima.webp" alt="testimonial">
                                             </div>
                                             <div class="author-info">
                                                 <h3>Neelima </h3>
@@ -680,9 +500,9 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="testi-item">
                                         <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                        <p>   I booked a Bharathgo ride, and it was so easy and affordable. The driver arrived on time, and the journey was smooth. A great option for quick city travel!.</p>
+                                        <p>   I booked a BharathGo ride, and it was so easy and affordable. The driver arrived on time, and the journey was smooth. A great option for quick city travel!.</p>
                                         <div class="testi-author">
-                                            <div class="author-thumb"><img src="assets/img/comment-1.png" alt="author">
+                                            <div class="author-thumb"><img src="assets/images/testimonial-priya.webp" alt="testimonial">
                                             </div>
                                             <div class="author-info">
                                                 <h3>Priya</h3>
@@ -693,9 +513,9 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="testi-item">
                                         <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                        <p>  I tried Bharathgo rentals, and it was perfect for a day out! The rental process was simple, and the bike was in good condition. Great for exploring the city on my own!.</p>
+                                        <p>  I tried BharathGo rentals, and it was perfect for a day out! The rental process was simple, and the bike was in good condition. Great for exploring the city on my own!.</p>
                                         <div class="testi-author">
-                                            <div class="author-thumb"><img src="assets/img/comment-1.png" alt="author">
+                                            <div class="author-thumb"><img src="assets/images/testimonial-anil.webp" alt="testimonial">
                                             </div>
                                             <div class="author-info">
                                                 <h3> Anil </h3>
@@ -706,9 +526,9 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="testi-item">
                                         <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                        <p>    Booked a Bharathgo bike rental, and I loved it. The process was smooth, and the bike was comfortable. Perfect for short trips and a quick, affordable ride option.</p>
+                                        <p>    Booked a BharathGo bike rental, and I loved it. The process was smooth, and the bike was comfortable. Perfect for short trips and a quick, affordable ride option.</p>
                                         <div class="testi-author">
-                                            <div class="author-thumb"><img src="assets/img/comment-1.png" alt="author">
+                                            <div class="author-thumb"><img src="assets/images/testimonial-sneha.webp" alt="testimonial">
                                             </div>
                                             <div class="author-info">
                                                 <h3> Sneha</h3>
@@ -719,9 +539,9 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="testi-item">
                                         <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                        <p>  I used Bharathgo’s rideshare service, and it was excellent! The driver was polite, and the trip was quick. A trustworthy and affordable choice for regular commuting.</p>
+                                        <p>  I used BharathGo’s rideshare service, and it was excellent! The driver was polite, and the trip was quick. A trustworthy and affordable choice for regular commuting.</p>
                                         <div class="testi-author">
-                                            <div class="author-thumb"><img src="assets/img/comment-1.png" alt="author">
+                                            <div class="author-thumb"><img src="assets/images/testimonial-vijay.webp" alt="testimonial">
                                             </div>
                                             <div class="author-info">
                                                 <h3> Vijay </h3>
@@ -759,7 +579,7 @@ include('includes/header.php')
                                 </div>
                                 <div class="feature-content">
                                     <h3>Live Tracking</h3>
-                                    <p>Safety and transparency are priorities at Bharathgo. With live tracking, riders, and drivers can stay updated on each ride’s progress in real-time, providing peace of mind and improved coordination.
+                                    <p>Safety and transparency are priorities at BharathGo. With live tracking, riders, and drivers can stay updated on each ride’s progress in real-time, providing peace of mind and improved coordination.
 
                                     </p>
                                 </div>
@@ -810,7 +630,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-1.jpg" alt="post">
+                            <img src="assets/images/SAFETY TIPS.webp" alt="safety">
                            
                         </div>
                         <div class="post-content-wrap">
@@ -828,7 +648,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-2.jpg" alt="post">
+                            <img src="assets/images/one-step-for-all.webp" alt="post">
                             
                         </div>
                         <div class="post-content-wrap">
@@ -846,7 +666,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-3.jpg" alt="post">
+                            <img src="assets/images/finding-best-types.webp" alt="post">
                             
                         </div>
                         <div class="post-content-wrap">

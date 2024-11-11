@@ -1,10 +1,7 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!-->
+
 <html class="no-js" lang="en">
-<!--<![endif]-->
+
 
 <head>
     <meta charset="utf-8">
@@ -59,7 +56,7 @@
             <div class="container">
                 <div class="top-header-wrap">
                     <div class="top-left">
-                        <p>Reliable Taxi Service & Transport Solutions!</p>
+                        <p>BHARATHGO BY YOUR SIDE</p>
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
@@ -99,7 +96,7 @@
                                 <i class="las la-envelope-open"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3><span>Email now</span>Info.BharatGo@mail.com</h3>
+                                <h3><span>Email now</span>bharathgo.official@gmail.com</h3>
                             </div>
                         </li>
                         <li>
@@ -107,7 +104,7 @@
                                 <i class="las la-map-marked-alt"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</h3>
+                                <h3>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</h3>
                             </div>
                         </li>
                     </ul>
@@ -124,55 +121,35 @@
                     <!--/.site-logo-->
                     <div class="header-menu-wrap">
                         <ul class="nav-menu">
-                            <li class="dropdown_menu">
-                                <a href="index.php">Home</a>
-                                <ul>
-                                    <li><a href="index.php">Home Default</a></li>
-                                    <li><a href="index-2.php">Home Modern</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown_menu">
-                                <a href="about-us.php">Company</a>
-                                <ul>
-                                    <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="about-company.php">About Company</a></li>
-                                    <li><a href="our-services.php">Our Services</a></li>
-                                    <li><a href="service-details.php">Services Details</a></li>
-                                    <li><a href="book-taxi.php">Book a Ride</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown_menu">
-                                <a href="our-taxi.php">Our Taxi</a>
-                                <ul>
-                                    <li><a href="our-taxi.php">Taxi Lists</a></li>
-                                    <li><a href="taxi-details.php">Taxi Details</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown_menu">
-                                <a href="#">Pages</a>
-                                <ul>
-                                    <li><a href="our-drivers.php">Our Drivers</a></li>
-                                    <li><a href="driver-details.php">Driver Details</a></li>
-                                    <li><a href="testimonials.php">Customer Reviews</a></li>
-                                    <li><a href="faqs.php">Help &amp; Faq's</a></li>
-                                    <li><a href="404.php">404 Error</a></li>
-                                </ul>
-                            </li>
                             <li class="active dropdown_menu">
+                                <a href="index.php">Home</a>
+                                
+                            </li>
+                            <li class="dropdown_menu">
+                                <a href="about-us.php">About Us</a>
+                                
+                            </li>
+                            <li class="dropdown_menu">
+                                <a href="our-services.php"> Services </a>
+                            </li>
+                            <li class="dropdown_menu">
+                                <a href="safety.php">
+                                    Safety</a>
+ 
+                            </li>
+                            <li class="dropdown_menu">
+                                <a href="career.php">Careers</a>
+                                
+                            </li>
+                            <li class="dropdown_menu">
                                 <a href="blog.php">Blog</a>
-                                <ul>
-                                    <li><a href="blog.php">Grid Posts</a></li>
-                                    <li><a href="blog-classic.php">Classic Posts</a></li>
-                                    <li><a href="blog-details.php">Blog Details</a></li>
-                                </ul>
+                                
                             </li>
                             <li><a href="contact-us.php">Contact</a></li>
                         </ul>
                     </div>
                     <div class="menu-right-item">
-                        <div class="search-icon dl-search-icon">
-                            <i class="las la-search"></i>
-                        </div>
+                       
                         <div class="sidebox-icon dl-sidebox-icon">
                             <i class="las la-bars"></i>
                         </div>
@@ -211,14 +188,13 @@
             <div class="site-logo">
                 <a href="../index.php"><img src="../assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -229,7 +205,7 @@
         <div class="container">
             <div class="page-header-info text-center">
                 <h4>Blog </h4>
-                <h2>Top 5 Safety Tips for Riders and Passengers Using Bharath Go Bike Taxi</h2>
+                <h2>Your One-Stop Solution for All Driver Needs at Bharath Go  </h2>
 
             </div>
         </div>
@@ -241,79 +217,24 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="post-details">
-                        <div class="post-thumb"><img src="../assets/img/post-1.jpg" alt="img"></div>
-                        <p>Bike taxis are a short, easy, and reasonably priced manner to get around crowded city areas.
-                            It's much less high priced than other modes of transportation and enables you to get through
-                            site visitors very quickly. Our primary priority at Bharath Go is safety. Here are the top
-                            five protection recommendations that every passengers and riders have to pass with the aid
-                            to make sure every ride is happy and secure. </p>
-                        <h3> Always Wear a Helmet </h3>
-                        <h4> Why It's Important </h4>
-                        <p>Wearing a helmet is critical for defending your head from injuries, reducing the risk of
-                            great injury, and even saving lives.</p>
-                        <h4>What You Should Do </h4>
-                        <p> Bharath Go gives helmets to passengers on every ride, so it's important to wear them earlier
-                            than the ride. Frequent motorbike taxi customers should deliver their helmets for introduced
-                            comfort and hygiene, as helmets are often required through regulation. </p>
-                        <h3> Check Driver and Bike Details </h3>
-                        <h4> Why It’s Important </h4>
-                        <p> Confirming the driving force’s info guarantees that you’re getting on the right motorbike
-                            with the correct person, which helps hold you safe.</p>
-                        <h4> What You Should Do </h4>
-                        <p> Bharath Go indicates the driving force’s name, image, and bike license plate upon booking.
-                            Double-take a look at these details whilst the driver arrives, and if something seems off,
-                            cancel and rebook for safety. </p>
-                        <h3> Sit Steady and Hold On </h3>
-                        <h4> Why It’s Important</h4>
-                        <p> Keeping a balanced position on the bike is important for each of you and the rider. It
-                            ensures that the bike remains solid throughout the trip, lowering the danger of injuries.
+                        <div class="post-thumb"><img src="../assets/images/one-step-for-all.webp" alt="taxi"></div>
+                        <p>In today’s fast-paced world drivers face many challenges, from Managing fuel prices to navigating customers. Bharath Go is aware of these demands and provides a range of contemporary services aimed at making driving more enjoyable for all. Whether you’re an everyday traveller or someone seeking to maximize your travel performance, Bharath Go has you covered.  </p>
+                        <h3>Ride-Sharing Opportunities </h3>
+                        
+                        <p>Bharath Go features an excellent trip-sharing platform that connects drivers with passengers looking for transportation. This carrier permits drivers to provide rides, helping them earn more income while lowering the number of cars on the street. By sharing rides, drivers not only fill empty seats but additionally contribute to a extra sustainable transportation version. Bharath Go's consumer-friendly app simplifies the technique of locating passengers and managing trip requests, permitting drivers to be aware of what they do great—riding.</p>
+                        <h3>Flexible Carpooling Options </h3>
+                        <p> In addition to journey-sharing, Bharath Go offers carpooling alternatives. Carpooling is a wonderful way for drivers to save money on fuel. By connecting with others going to the same destinations, drivers can break up prices and enjoy a greater social travel experience. Bharath Go’s platform makes it easy to coordinate schedules and routes, making this carrier mainly useful for the ones commuting to work or attending activities.  </p>
+                        <h3> Instant Ride Requests:  </h3>
+                      
+                        <p> Bharath Go focuses on convenience with its instant ride request feature. When drivers are on the road and need a quick trip, they can use the app to request a passenger experience in actual time. This gets rid of the difficulty of ready or trying to find riders, permitting drivers to maximize their time and profits. The system efficiently suits drivers with nearby passengers, ensuring continuing enjoyment for every person concerned. With Bharath Go, drivers can respond to ride requests speedily, improving their earning ability without delivering strain. </p>
+                        <h3> Scheduled Rides </h3>
+                        <p>For those who prefer a more organized approach to their travel, Bharath Go’s scheduled ride option is perfect. This characteristic enables drivers to devise rides earlier, making sure availability while wanted. Scheduled rides are ideal for appointments, airport transfers, or events where well-timed arrivals are critical. By permitting customers to book rides ahead of time, Bharath Go helps drivers manipulate their schedules effectively and peace of mind to passengers who can depend upon reliable transportation. </p>
+                        <h3> Conclusion </h3>
+                    
+                        <p> Bharath Go is transforming the driving experience by offering a variety of services designed to meet the various needs of drivers. With opportunities for experience-sharing, flexible carpooling, immediate journey requests, and scheduled rides, drivers can navigate their journeys conveniently and efficiently. This modern platform complements man or woman, students and employees to a sustainable future by promoting shared transportation solutions. Whether you’re looking to save money, reduce your carbon footprint, or simply make your travel more convenient, Bharath Go is your trusted partner on the road. Join the revolution today and discover how Bharath Go can elevate your driving experience! 
                         </p>
-                        <h4> What You Should Do </h4>
-                        <p>Sit close to the driving force and keep onto the grip handles for balance. Avoid surprising
-                            actions or excessive leaning to assist hold the bike balanced and make certain a more secure
-                            journey. </p>
-
-                        <h3>Follow Traffic Rules </h3>
-                        <h4>Why It’s Important </h4>
-                        <p> Traffic policies exist to hold every person safe on the road. When riders and passengers
-                            follow these guidelines, they help save you from injuries and create a more secure journey.
-                        </p>
-                        <h4>What You Should Do </h4>
-                        <p> Riders must follow visitor's alerts, keep to speed limits, and keep away from unstable
-                            moves. Passengers can help by encouraging safe use and ensuring a relaxed and rule-abiding
-                            ride.</p>
-                        <h3> Share Your Trip with Someone You Trust </h3>
-                        <h4>Why It’s Important </h4>
-                        <p> Sharing your experience details with a friend or family member adds an additional layer of
-                            protection. </p>
-                        <h4> What You Should Do </h4>
-                        <p> The Bharath Go app helps you to percentage your experience in actual time, allowing others
-                            to tune your route for peace of mind. </p>
-                        <h3>Conclusion </h3>
-                        <p>Bike taxis are a convenient and green manner to journey in busy cities, but protection ought
-                            to constantly come first. By following those five safety suggestions wearing a helmet,
-                            checking driver info, sitting constantly, following site visitors' regulations, and sharing
-                            your journey you may enjoy each ride with self-belief. Ready to journey smart and safe?
-                            Download the Bharath Go app these days and make every experience a secure journey! </p>
-
-                           <!-- <h3 class="comment-title">Leave a Comment</h3>
-                        <form action="#" method="post" class="comment-form form-horizontal">
-                            <div class="form-group row">
-                                <div class="col-sm-6 padding-15">
-                                    <input type="text" id="name" name="name" class="form-control" placeholder="Name*" required>
-                                </div>
-                                <div class="col-sm-6 padding-15">
-                                    <input type="text" id="email" name="email" class="form-control" placeholder="Email*" required>
-                                </div>
-                                <div class="col-md-12 padding-15">
-                                    <textarea id="comment" name="comment" cols="30" rows="5" class="form-control comment" placeholder="Your Comment*" required></textarea>
-                                </div>
-                                <div class="col-md-12 padding-15">
-                                    <button id="submit" class="default-btn" type="submit">Submit Comment<span></span></button>
-                                    <div id="form-messages" class="alert" role="alert"></div>
-                                </div>
-                            </div>
-                        </form> -->
+                       
+                        
                     </div>
                 </div>
             </div>
@@ -382,7 +303,7 @@
                             <ul class="footer-contact">
                                 <li><span>Location:</span>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road,
                                     Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
-                                <li><span>Join Us:</span>Info@YourGmail24.com</li>
+                                <li><span>Join Us:</span>bharathgo.official@gmail.com</li>
                             </ul>
                         </div>
                     </div>

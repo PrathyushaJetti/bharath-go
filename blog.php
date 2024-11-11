@@ -1,8 +1,8 @@
 <?php ;
 $meta = [
-    'title' => "Bharathgo Blog - Latest Stories, Achievements & Project Updates",
-    'description' => "Bharathgo blogs - Read the latest stories on rides, covering attainments, progress, and updates. Stay informed with current news, insights, and exciting results.",
-    'keywords' => "bharathgo,news, Blog,Article,post,bike cabs article,corporate bike,auto,ride bike,Rides Stories,Achievements,",
+    'title' => "BharathGo Blog - Latest Stories, Achievements & Project Updates",
+    'description' => "BharathGo blogs - Read the latest stories on rides, covering attainments, progress, and updates. Stay informed with current news, insights, and exciting results.",
+    'keywords' => "BharathGo,news, Blog,Article,post,bike cabs article,corporate bike,auto,ride bike,Rides Stories,Achievements,",
    
     
 ]; 
@@ -29,14 +29,13 @@ include('includes/header.php')
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -63,15 +62,15 @@ include('includes/header.php')
                         <div class="col-md-6 padding-15">
                             <div class="post-card">
                                 <div class="post-thumb">
-                                    <img src="assets/img/post-1.jpg" alt="post">
+                                    <img src="assets/images/SAFETY TIPS.webp" alt="post">
                                   
                                 </div>
                                 <div class="post-content-wrap">
                                    
                                     <div class="post-content">
-                                        <h3><a href="#" class="hover">Top 5 Safety Tips for Riders and Passengers Using Bharath Go Bike Taxi</a></h3>
+                                        <h3><a href="./blog/safety-tips.php" class="hover">Top 5 Safety Tips for Riders and Passengers Using Bharath Go Bike Taxi</a></h3>
                                         <p>Bike taxis are a short, easy, and reasonably priced manner to get around crowded city areas. It's much less high priced than other modes of transportation and enables you to get through site visitors very quickly. Our primary priority at Bharath Go is safety. Here are the top five protection recommendations that every passengers and riders have to pass with the aid to make sure every ride is happy and secure. </p>
-                                        <a href="#" class="read-more">Read More</a>
+                                        <a href="./blog/safety-tips.php" class="read-more">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -79,15 +78,15 @@ include('includes/header.php')
                         <div class="col-md-6 padding-15">
                             <div class="post-card">
                                 <div class="post-thumb">
-                                    <img src="assets/img/post-2.jpg" alt="post">
+                                    <img src="assets/images/one-step-for-all.webp" alt="post">
                                     
                                 </div>
                                 <div class="post-content-wrap">
                                     
                                     <div class="post-content">
-                                        <h3><a href="#">Your One-Stop Solution for All Driver Needs at Bharath Go </a></h3>
+                                        <h3><a href="./blogs/one-stop-solution-for-all-driver-needs.php">Your One-Stop Solution for All Driver Needs at Bharath Go </a></h3>
                                         <p>In today’s fast-paced world drivers face many challenges, from Managing fuel prices to navigating customers. Bharath Go is aware of these demands and provides a range of contemporary services aimed at making driving more enjoyable for all. Whether you’re an everyday traveller or someone seeking to maximize your travel performance, Bharath Go has you covered. </p>
-                                        <a href="#" class="read-more">Read More</a>
+                                        <a href="./blogs/one-stop-solution-for-all-driver-needs.php" class="read-more">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -95,15 +94,15 @@ include('includes/header.php')
                         <div class="col-md-6 padding-15">
                             <div class="post-card">
                                 <div class="post-thumb">
-                                    <img src="assets/img/post-3.jpg" alt="post">
+                                    <img src="assets/images/RIDE SMART LIVE GREEN.webp" alt="post">
                                    
                                 </div>
                                 <div class="post-content-wrap">
                                     
                                     <div class="post-content">
-                                        <h3><a href="#">Ride Smart, Live Green: The BharathGo Vision for a Better Tomorrow </a></h3>
+                                        <h3><a href="./blogs/ride-smart-live-green.php">Ride Smart, Live Green: The BharathGo Vision for a Better Tomorrow </a></h3>
                                         <p>BharathGo goes beyond a regular transportation app through its focus on social responsibility and the environment.  Our revolutionary trip-sharing and carpooling alternatives are designed to significantly reduce visitor time reduce carbon emissions and the encouragement of greener environments. By allowing neighbourhood drivers to sign up for our platform, we not handiest create task possibilities but also stimulate financial growth in the network. Each journey shared through BharathGo contributes to a great future, as we work together to minimize our ecological area. </p>
-                                        <a href="#" class="read-more">Read More</a>
+                                        <a href="./blogs/ride-smart-live-green.php" class="read-more">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -111,15 +110,15 @@ include('includes/header.php')
                         <div class="col-md-6 padding-15">
                             <div class="post-card">
                                 <div class="post-thumb">
-                                    <img src="assets/img/post-4.jpg" alt="post">
+                                    <img src="assets/images/finding-best-types.webp" alt="taxi">
                                  
                                 </div>
                                 <div class="post-content-wrap">
                                     
                                     <div class="post-content">
-                                        <h3><a href="#">Finding the Best Taxi Option in Your budget with BharathGo </a></h3>
+                                        <h3><a href="./blogs/finding-the-best-taxi option-in-your-budget.php">Finding the Best Taxi Option in Your budget with BharathGo </a></h3>
                                         <p>In today’s busy world, taxis offer a brief and convenient way to get around without the pressure of driving. With alternatives like bike taxis, auto taxis, and car taxis, it could be difficult to locate the proper choice for your needs and finances. BharathGo helps you find an exceptional choice at a nice rate, making it easy to pick out your experience. </p>
-                                        <a href="#" class="read-more">Read More</a>
+                                        <a href="./blogs/finding-the-best-taxi option-in-your-budget.php" class="read-more">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -145,15 +144,20 @@ include('includes/header.php')
                     <!--Search Form-->
                     <div class="sidebar-widget">
                         <div class="widget-title">
-                            <h3>Categories</h3>
+                            <h3>Services</h3>
                         </div>
                         <ul class="category-list">
-                            <li><a href="blog.php">Business Strategy</a><span>23</span></li>
-                            <li><a href="blog.php">Project Management</a><span>05</span></li>
-                            <li><a href="blog.php">Digital Marketing</a><span>18</span></li>
-                            <li><a href="blog.php">Customer Experience</a><span>04</span></li>
-                            <li><a href="blog.php">Partnership System</a><span>15</span></li>
+                            <li><a href="#"> Auto  Booking </a></li>
+                            <li><a href="#"> Cab Services</a></li>
+                            <li><a href="#"> Bike Rentals booking </a></li>
+                            <li><a href="#"> Airport Cab Services </a></li>
+                            <li><a href="#"> Outstation Travel </a></li>
+                            <li><a href="#"> Ride Pooling Services </a></li>
+                            <li><a href="#"> Corporate Cab Services </a></li>
+                            <li><a href="#"> School & College Commute Services </a></li>
+                            <li><a href="#">Hourly Rentals </a></li>
                         </ul>
+                        
                     </div>
                     <!--Categories-->
                     <div class="sidebar-widget">
@@ -166,8 +170,8 @@ include('includes/header.php')
                                     <img src="assets/img/post-thumb-1.jpg" alt="thumb">
                                 </div>
                                 <div class="thumb-post-info">
-                                    <h3><a href="blog-details.php">How To Go About Initiating An Startup In Few Days.</a></h3>
-                                    <a href="#" class="date">Jan 01 2022</a>
+                                    <h3><a href="./blog/safety-tips.php" class="hover">Top 5 Safety Tips for Riders and Passengers Using Bharath Go Bike Taxi</a></h3>
+                                   
                                 </div>
                             </li>
                             <li>
@@ -175,8 +179,8 @@ include('includes/header.php')
                                     <img src="assets/img/post-thumb-2.jpg" alt="thumb">
                                 </div>
                                 <div class="thumb-post-info">
-                                    <h3><a href="blog-details.php">Financial Experts Support Help You To Find Out.</a></h3>
-                                    <a href="#" class="date">Jan 01 2022</a>
+                                <h3><a href="./blogs/ride-smart-live-green.php">Ride Smart, Live Green: The BharathGo Vision for a Better Tomorrow </a></h3>
+                                    
                                 </div>
                             </li>
                             <li>
@@ -184,8 +188,17 @@ include('includes/header.php')
                                     <img src="assets/img/post-thumb-3.jpg" alt="thumb">
                                 </div>
                                 <div class="thumb-post-info">
-                                    <h3><a href="blog-details.php">Innovative Helping Business All Over The World.</a></h3>
-                                    <a href="#" class="date">Jan 01 2022</a>
+                                <h3><a href="./blogs/finding-the-best-taxi option-in-your-budget.php">Finding the Best Taxi Option in Your budget with BharathGo </a></h3>
+                                   
+                                </div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <img src="assets/img/post-thumb-3.jpg" alt="thumb">
+                                </div>
+                                <div class="thumb-post-info">
+                                <h3><a href="./blogs/one-stop-solution-for-all-driver-needs.php">Your One-Stop Solution for All Driver Needs at Bharath Go </a></h3>
+                                   
                                 </div>
                             </li>
                         </ul>

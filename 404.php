@@ -64,7 +64,7 @@
             <div class="container">
                 <div class="top-header-wrap">
                     <div class="top-left">
-                        <p>Reliable Taxi Service & Transport Solutions!</p>
+                        <p>BHARATHGO BY YOUR SIDE</p>
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
@@ -104,7 +104,7 @@
                                 <i class="las la-envelope-open"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3><span>Email now</span>Info.BharatGo@mail.com</h3>
+                                <h3><span>Email now</span>bharathgo.official@gmail.com</h3>
                             </div>
                         </li>
                         <li>
@@ -112,7 +112,7 @@
                                 <i class="las la-map-marked-alt"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</h3>
+                                <h3>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</h3>
                             </div>
                         </li>
                     </ul>
@@ -216,14 +216,13 @@
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -299,8 +298,8 @@
                                 <h3>Head Office</h3>
                             </div>
                             <ul class="footer-contact">
-                                <li><span>Location:</span>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
-                                <li><span>Join Us:</span>Info@YourGmail24.com</li>
+                                <li><span>Location:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
+                                <li><span>Join Us:</span>bharathgo.official@gmail.com</li>
                             </ul>
                         </div>
                     </div>

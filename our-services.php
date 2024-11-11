@@ -29,14 +29,13 @@ include('includes/header.php')
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -54,6 +53,7 @@ include('includes/header.php')
         </div>
     </section>
     <!--/.page-header-->
+    
 
     <section class="service-section bg-grey bd-bottom padding">
         <div class="container">
@@ -61,11 +61,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-1.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/AUTO BOOKING.webp" alt="auto">
+                            
                         </div>
                         <div class="service-content">
                             <h3><a href="#"> Auto  Booking </a></h3>
@@ -77,11 +74,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-2.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/CAB BOOKING.webp" alt="cab">
+                            
                         </div>
                         <div class="service-content">
                             <h3><a href="#"> Cab Services </a></h3>
@@ -95,11 +89,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-3.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/BIKE BOOKING.webp" alt="bike">
+                            
                         </div>
                         <div class="service-content">
                             <h3><a href="#">Bike Rentals booking </a></h3>
@@ -113,11 +104,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-4.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/Air Port Cab Services.webp" alt="airport">
+                           
                         </div>
                         <div class="service-content">
                             <h3><a href="#">Airport Cab Services</a></h3>
@@ -129,11 +117,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-5.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/Outoff Station Travels.webp" alt="Travel">
+                            
                         </div>
                         <div class="service-content">
                             <h3><a href="#">Outstation Travel</a></h3>
@@ -145,11 +130,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-5.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/Ride Pooling Services.webp" alt="Ride">
+                           
                         </div>
                         <div class="service-content">
                             <h3><a href="#">Ride Pooling Services</a></h3>
@@ -161,11 +143,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-5.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/Corporate Cab Services.webp" alt="Corporate">
+                            
                         </div>
                         <div class="service-content">
                             <h3><a href="#">Corporate Cab Services</a></h3>
@@ -177,11 +156,8 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-5.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/School& BUS Commute Services.webp" alt="Services">
+                           
                         </div>
                         <div class="service-content">
                             <h3><a href="#">School & College Commute Services</a> </h3>
@@ -193,11 +169,9 @@ include('includes/header.php')
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="service-item">
                         <div class="service-thumb">
-                            <img src="assets/img/service-5.jpg" alt="img">
-                            <div class="service-shape-wrap">
-                                <div class="service-shape"></div>
-                            </div>
-                            <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
+                            <img src="assets/images/Hourly Rentals.webp" alt="Rentals">
+                            
+                           
                         </div>
                         <div class="service-content">
                             <h3><a href="#">Hourly Rentals</a></h3>
@@ -250,7 +224,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-1.jpg" alt="post">
+                            <img src="assets/images/SAFETY TIPS.webp" alt="safety">
                            
                         </div>
                         <div class="post-content-wrap">
@@ -268,7 +242,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-2.jpg" alt="post">
+                            <img src="assets/images/one-step-for-all.webp" alt="post">
                             
                         </div>
                         <div class="post-content-wrap">
@@ -286,7 +260,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-3.jpg" alt="post">
+                            <img src="assets/images/finding-best-types.webp" alt="post">
                             
                         </div>
                         <div class="post-content-wrap">

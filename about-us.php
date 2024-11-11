@@ -1,8 +1,8 @@
 <?php ;
 $meta = [
-    'title' => "Bharathgo - We are not here by chance, we are here by purpose",
-    'description' => "Know about Bharathgo, a trusted travel service in India, that offers easy, safe, and affordable prices for rides to meet all your travel needs across the country.",
-    'keywords' => "Bharathgo,Car Rentals India,book cabs online,book taxi online,Airport Taxi India,cabs in india,taxi in india,cabs services in India,taxi services in India,car rental services in india,car rentals,Taxi,Cabs,Hire,Rent,Book a cab,cab book,taxi services online,Car Rentals in Hyderabad,car services in india,car rental services in india,ride bike helmet,online bike rental Hyderabad,1 day car rental cost,rental car for one day price,",
+    'title' => "BharathGo - We are not here by chance, we are here by purpose",
+    'description' => "Know about BharathGo, a trusted travel service in India, that offers easy, safe, and affordable prices for rides to meet all your travel needs across the country.",
+    'keywords' => "BharathGo,Car Rentals India,book cabs online,book taxi online,Airport Taxi India,cabs in india,taxi in india,cabs services in India,taxi services in India,car rental services in india,car rentals,Taxi,Cabs,Hire,Rent,Book a cab,cab book,taxi services online,Car Rentals in Hyderabad,car services in india,car rental services in india,ride bike helmet,online bike rental Hyderabad,1 day car rental cost,rental car for one day price,",
    
     
 ]; 
@@ -29,14 +29,13 @@ include('includes/header.php')
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -53,45 +52,39 @@ include('includes/header.php')
             </div>
         </div>
     </section>
-   <!--/.slider-section-->
+    <!--/.slider-section-->
 
-   <section class="about-section padding">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-md-6">
-                <div class="about-img">
-                    <img class="about-img1 wow fade-in-left" data-wow-delay="200ms" src="assets/img/about-1.png"
-                        alt="img">
-                    <img class="about-img2 wow fade-in-bottom" data-wow-delay="400ms" src="assets/img/about-2.png"
-                        alt="img">
-                    <figure class="round-text"><img src="assets/img/experience-text-round.png" alt="img"></figure>
+    <section class="about-section padding">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="about-img">
+                        <img class="about-img1 wow fade-in-left" data-wow-delay="200ms" src="assets/images/TRANSPORT.png"
+                            alt="img">
+                        <img class="about-img2 wow fade-in-bottom" data-wow-delay="400ms" src="assets/images/cars.png"
+                            alt="img">
+                        <figure class="round-text"><img src="assets/images/Bharath Go (6) (1).webp" alt="img"></figure>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-6">
-                <div class="section-heading mb-40 wow fade-in-right" data-wow-delay="200ms">
-                    <h4><span></span>About Our Company</h4>
-                    <h2>Feel the difference and Relaxation with BharatGo Taxi Company!</h2>
-                    <p>In 2023, Bharath Go introduced Bike-Taxis to India, becoming a leader in this space. With a focus on making travel easier across the country, it has grown steadily. Now, it’s well-known for app-based auto services and is expanding its reach in the cab market and local deliveries with Bharath Go Parcel.</p>
+                <div class="col-md-6">
+                    <div class="section-heading mb-40 wow fade-in-right" data-wow-delay="200ms">
+                        <h4><span></span>About Our Company</h4>
+                        <h2>Feel the difference and Relaxation with BharatGo Taxi Company!</h2>
+                        <p>In 2023, Bharath Go introduced Bike-Taxis to India, becoming a leader in this space. With a focus on making travel easier across the country, it has grown steadily. Now, it’s well-known for app-based auto services and is expanding its reach in the cab market and local deliveries with Bharath Go Parcel.</p>
+                    </div>
+                    <!--/.section-heading-->
+                    <ul class="about-info wow fade-in-right" data-wow-delay="400ms">
+                        
+                        <li>
+                            <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
+                        </li>
+                    </ul>
                 </div>
-                <!--/.section-heading-->
-                <ul class="about-info wow fade-in-right" data-wow-delay="400ms">
-                    <li>
-                        <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                        <div class="owner">
-                            <h4>Founder - CEO</h4>
-                            <img class="signature" src="assets/img/signature.png" alt="signature">
-                        </div>
-                    </li>
-                    <li>
-                        <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
-                    </li>
-                </ul>
             </div>
         </div>
-    </div>
-</section>
-<!--/.about-section-->
-<!--/.slider-section-->
+    </section>
+    <!--/.about-section-->
+
 
 <section class="about-section padding">
     <div class="container">
@@ -104,26 +97,15 @@ include('includes/header.php')
                     <p>Team Bharath Go is a group of dedicated people. They work together to reach their goals. The manager guides everyone, making sure tasks are clear. Each team member has a role, and they all support each other. Together, they solve problems and grow. The manager leads with care and helps the team stay focused.</p>
                 </div>
                 <!--/.section-heading-->
-                <ul class="about-info wow fade-in-right" data-wow-delay="400ms">
-                    <li>
-                        <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                        <div class="owner">
-                            <h4>Founder - CEO</h4>
-                            <img class="signature" src="assets/img/signature.png" alt="signature">
-                        </div>
-                    </li>
-                    <li>
-                        <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
-                    </li>
-                </ul>
+                
             </div>
             <div class="col-md-6">
                 <div class="about-img">
                     <img class="about-img1 wow fade-in-left" data-wow-delay="200ms" src="assets/images/WhatsApp Image 2024-10-28 at 11.07.14 AM.jpeg"
                         alt="img">
-                    <img class="about-img2 wow fade-in-bottom" data-wow-delay="400ms" src="assets/img/about-2.png"
-                        alt="img">
-                    <figure class="round-text"><img src="assets/img/experience-text-round.png" alt="img"></figure>
+                        <img class="about-img2 wow fade-in-bottom" data-wow-delay="400ms" src="assets/images/cars.png"
+                            alt="img">
+                        <figure class="round-text"><img src="assets/images/Bharath Go (6) (1).webp" alt="img"></figure>
                 </div>
             </div>
         </div>
@@ -132,125 +114,110 @@ include('includes/header.php')
 <!--/.about-section-->
 
 
-<section class="service-section bg-grey padding">
-    <div class="bg-half"></div>
-    <div class="container">
-        <div class="section-heading text-center mb-40 wow fade-in-bottom" data-wow-delay="200ms">
-            <h4><span></span>What We Offer</h4>
-            <h2 class="white">Start your journey with<br>BharatGo Taxi Company!</h2>
-            <p>We successfully cope with tasks of varying complexity, provide long-term <br>guarantees and regularly
-                master new technologies.</p>
-        </div>
-        <!--/.section-heading-->
-        <div class="swiper-outside">
-            <div class="service-carousel">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="service-item wow fade-in-bottom" data-wow-delay="200ms">
-                            <div class="service-thumb">
-                                <img src="assets/img/service-1.jpg" alt="img">
-                                <div class="service-shape-wrap">
-                                    <div class="service-shape"></div>
-                                </div>
-                                <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
-                            </div>
-                            <div class="service-content">
-                                <h3><a href="#">Vehicle Rentals services</a></h3>
-                                <p>Get easy rentals for autos, cabs, and bikes! Quick booking, affordable rates, and reliable rides. Perfect for daily travel needs convenient, safe, and always there when you need it.</p>
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="service-item wow fade-in-bottom" data-wow-delay="400ms">
-                            <div class="service-thumb">
-                                <img src="assets/img/service-2.jpg" alt="img">
-                                <div class="service-shape-wrap">
-                                    <div class="service-shape"></div>
-                                </div>
-                                <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
-                            </div>
-                            <div class="service-content">
-                                <h3><a href="#">Unified Mobility (Rideshare) </a></h3>
-                                <p>Unified Mobility offers easy rides with autos, cabs, and bike pools. Choose the ride that fits your needs, book quickly, and travel safely. Affordable, reliable, and perfect for everyday journeys.</p>
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="service-item wow fade-in-bottom" data-wow-delay="600ms">
-                            <div class="service-thumb">
-                                <img src="assets/img/service-3.jpg" alt="img">
-                                <div class="service-shape-wrap">
-                                    <div class="service-shape"></div>
-                                </div>
-                                <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
-                            </div>
-                            <div class="service-content">
-                                <h3><a href="service-details.php">Ride Booking</a></h3>
-                                <p>Book rides easily with Bharathgo! Choose from cabs or bikes for a quick, comfortable trip. Fast booking, affordable rates, and friendly drivers make every ride smooth. Your journey is made easy.</p>
-                               
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="service-item">
-                            <div class="service-thumb">
-                                <img src="assets/img/service-4.jpg" alt="img">
-                                <div class="service-shape-wrap">
-                                    <div class="service-shape"></div>
-                                </div>
-                                <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
-                            </div>
-                            <div class="service-content">
-                                <h3><a href="#">Bharathgo Local (Parcels sending)</a></h3>
-                                <p>Bharathgo Local offers fast and reliable parcel delivery to local areas with easy pickup and drop-off options. Whether you need a package delivered or want a quick ride, our cabs and bikes are here for you.</p>
-                               
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="service-item">
-                            <div class="service-thumb">
-                                <img src="assets/img/service-5.jpg" alt="img">
-                                <div class="service-shape-wrap">
-                                    <div class="service-shape"></div>
-                                </div>
-                                <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
-                            </div>
-                            <div class="service-content">
-                                <h3><a href="#">Subscription and Membership</a></h3>
-                                <p>Bharathgo's subscription gives you quick rides at lower prices. With a membership, you save more, avoid extra charges, and get priority service. It’s easy, affordable, and helps you travel smoothly.</p>
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="service-item">
-                            <div class="service-thumb">
-                                <img src="assets/img/service-5.jpg" alt="img">
-                                <div class="service-shape-wrap">
-                                    <div class="service-shape"></div>
-                                </div>
-                                <div class="service-car"><img src="assets/img/car-11.png" alt="car"></div>
-                            </div>
-                            <div class="service-content">
-                                <h3><a href="#">Corporate Mobility</a></h3>
-                                <p>Bharathgo offers easy and quick rides for offices, helping employees travel safely every day. It saves time and reduces costs, making corporate transport smooth and reliable for businesses and teams.</p>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-pagination"></div><!-- Carousel Dots -->
+ <!--/.about-section-->
+
+ <section class="service-section bg-grey padding">
+        <div class="bg-half"></div>
+        <div class="container">
+            <div class="section-heading text-center mb-40 wow fade-in-bottom" data-wow-delay="200ms">
+                <h4><span></span>What We Offer</h4>
+                <h2 class="white">Start your journey with<br>BharatGo Taxi Company!</h2>
+                <p>We successfully cope with tasks of varying complexity, provide long-term <br>guarantees and regularly
+                    master new technologies.</p>
             </div>
-            <!-- Carousel Arrows -->
-            <div class="swiper-nav swiper-next"><i class="las la-long-arrow-alt-right"></i></div>
-            <div class="swiper-nav swiper-prev"><i class="las la-long-arrow-alt-left"></i></div>
+            <!--/.section-heading-->
+            <div class="swiper-outside">
+                <div class="service-carousel">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="service-item wow fade-in-bottom" data-wow-delay="200ms">
+                                <div class="service-thumb">
+                                    <img src="assets/images/RENTAL.webp" alt="img">
+                                    
+                                </div>
+                                <div class="service-content">
+                                    <h3><a href="#">Vehicle Rentals services</a></h3>
+                                    <p>Get easy rentals for autos, cabs, and bikes! Quick booking, affordable rates, and reliable rides. Perfect for daily travel needs convenient, safe, and always there when you need it.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item wow fade-in-bottom" data-wow-delay="400ms">
+                                <div class="service-thumb">
+                                    <img src="assets/images/Ride share.webp" alt="img">
+                                    
+                                </div>
+                                <div class="service-content">
+                                    <h3><a href="#">Unified Mobility (Rideshare) </a></h3>
+                                    <p>Unified Mobility offers easy rides with autos, cabs, and bike pools. Choose the ride that fits your needs, book quickly, and travel safely. Affordable, reliable, and perfect for everyday journeys.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item wow fade-in-bottom" data-wow-delay="600ms">
+                                <div class="service-thumb">
+                                    <img src="assets/images/Ride Booking.webp" alt="img">
+                                    
+                                </div>
+                                <div class="service-content">
+                                    <h3><a href="service-details.php">Ride Booking</a></h3>
+                                    <p>Book rides easily with BharathGo! Choose from cabs or bikes for a quick, comfortable trip. Fast booking, affordable rates, and friendly drivers make every ride smooth. Your journey is made easy.</p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="service-thumb">
+                                    <img src="assets/images/Parcels Sending.webp" alt="img">
+                                    
+                                </div>
+                                <div class="service-content">
+                                    <h3><a href="#">BharathGo Local (Parcels sending)</a></h3>
+                                    <p>BharathGo Local offers fast and reliable parcel delivery to local areas with easy pickup and drop-off options. Whether you need a package delivered or want a quick ride, our cabs and bikes are here for you.</p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="service-thumb">
+                                    <img src="assets/images/Subscription &Membership.webp" alt="img">
+                                    
+                                </div>
+                                <div class="service-content">
+                                    <h3><a href="#">Subscription and Membership</a></h3>
+                                    <p>BharathGo's subscription gives you quick rides at lower prices. With a membership, you save more, avoid extra charges, and get priority service. It’s easy, affordable, and helps you travel smoothly.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="service-thumb">
+                                    <img src="assets/images/Corporate Mobility .webp" alt="img">
+                                   
+                                </div>
+                                <div class="service-content">
+                                    <h3><a href="#">Corporate Mobility</a></h3>
+                                    <p>BharathGo offers easy and quick rides for offices, helping employees travel safely every day. It saves time and reduces costs, making corporate transport smooth and reliable for businesses and teams.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div><!-- Carousel Dots -->
+                </div>
+                <!-- Carousel Arrows -->
+                <div class="swiper-nav swiper-next"><i class="las la-long-arrow-alt-right"></i></div>
+                <div class="swiper-nav swiper-prev"><i class="las la-long-arrow-alt-left"></i></div>
+            </div>
         </div>
-    </div>
-</section>
-<!--/.service-section-->
+    </section>
+    <!--/.service-section-->
+
 
 
     
@@ -283,7 +250,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-1.jpg" alt="post">
+                            <img src="assets/images/SAFETY TIPS.webp" alt="safety">
                            
                         </div>
                         <div class="post-content-wrap">
@@ -301,7 +268,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-2.jpg" alt="post">
+                            <img src="assets/images/one-step-for-all.webp" alt="post">
                             
                         </div>
                         <div class="post-content-wrap">
@@ -319,7 +286,7 @@ include('includes/header.php')
                 <div class="col-lg-4 col-md-6 padding-15">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-3.jpg" alt="post">
+                            <img src="assets/images/finding-best-types.webp" alt="post">
                             
                         </div>
                         <div class="post-content-wrap">
@@ -337,6 +304,7 @@ include('includes/header.php')
             </div>
         </div>
     </section>
+    <!--/.blog-section-->
 
 
     <!--/.blog-section-->
@@ -351,7 +319,7 @@ include('includes/header.php')
                             <div class="section-heading mb-30">
                                 <h4 class="white"><span></span>Why Choose Us for Drivers</h4>
                                 <h2 class="white">Earn More, Drive Smart</h2>
-                                <p class="white">With Bharathgo, drivers get the opportunity to earn competitive rates, making each trip worthwhile. Our optimized routing and real-time updates mean you spend less time waiting and more time earning.</p>
+                                <p class="white">With BharathGo, drivers get the opportunity to earn competitive rates, making each trip worthwhile. Our optimized routing and real-time updates mean you spend less time waiting and more time earning.</p>
                             </div>
                             <!--/.section-heading-->
                             <ul class="BharatGo-features">
@@ -379,7 +347,7 @@ include('includes/header.php')
                                     </div>
                                     <div class="feature-content">
                                         <h3>Driver Support & Resources</h3>
-                                        <p>We provide ongoing support and resources to help drivers succeed, from training to tech assistance, so you’re never alone on the road with Bharathgo.
+                                        <p>We provide ongoing support and resources to help drivers succeed, from training to tech assistance, so you’re never alone on the road with BharathGo.
 
                                         </p>
                                     </div>
@@ -423,7 +391,7 @@ include('includes/header.php')
                                 </div>
                                 <div class="feature-content">
                                     <h3>Doorstep Pickup</h3>
-                                    <p>Convenience is key. Enjoy the ease of getting picked up right at your doorstep, making each journey with Bharathgo hassle-free from start to finish.</p>
+                                    <p>Convenience is key. Enjoy the ease of getting picked up right at your doorstep, making each journey with BharathGo hassle-free from start to finish.</p>
                                 </div>
                             </li>
                         </ul>

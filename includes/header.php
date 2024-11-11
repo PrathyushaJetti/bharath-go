@@ -61,11 +61,11 @@
             <div class="container">
                 <div class="top-header-wrap">
                     <div class="top-left">
-                        <p>Reliable Taxi Service & Transport Solutions!</p>
+                        <p>BHARATHGO BY YOUR SIDE</p>
                     </div>
                     <div class="top-right">
                         <ul class="top-header-nav">
-                            <li><a href="faqs.php">Help</a></li>
+                            
                             <li><a href="contact-us.php">Support</a></li>
                             <li><a href="faqs.php">FAQ</a></li>
                         </ul>
@@ -91,7 +91,7 @@
                                 <i class="las la-phone-volume"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3><span>Call us now</span><a href="tel:6303548105"> 6303548105</a></h3>
+                                <h3><span>Call us now</span><a href="tel:6303548105"> 6303548105 <br>9121485247</a></h3>
                             </div>
                         </li>
                         <li>
@@ -99,7 +99,7 @@
                                 <i class="las la-envelope-open"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3><span>Email now</span>Info.BharatGo@mail.com</h3>
+                                <h3><span>Email now</span>bharathgo.official@gmail.com</h3>
                             </div>
                         </li>
                         <li>
@@ -107,7 +107,7 @@
                                 <i class="las la-map-marked-alt"></i>
                             </div>
                             <div class="header-info-text">
-                                <h6>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</h6>
+                                <h6>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</h6>
                             </div>
                         </li>
                     </ul>
@@ -156,7 +156,7 @@
                         <div class="sidebox-icon dl-sidebox-icon">
                             <i class="las la-bars"></i>
                         </div>
-                        <a href="#downloadNow" class="menu-btn">Book a Taxi</a>
+                        <a href="book-taxi.php" class="menu-btn">Book a Taxi</a>
                     </div>
                     <div class="mobile-menu-icon">
                         <div class="burger-menu">

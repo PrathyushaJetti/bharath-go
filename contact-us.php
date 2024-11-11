@@ -2,7 +2,7 @@
 $meta = [
     'title' => "Get in Touch - Bharath Go | Customer Support & Services",
     'description' => "For any questions or support, reach out to Bharath here. Just fill out the query form, and we will get back to you as soon as possible. We are here to help you.",
-    'keywords' => "Bharathgo,Contact us,Reach us,Mobile,Phone Number, Email, Address,Customer Service,Business Inquiries,",
+    'keywords' => "BharathGo,Contact us,Reach us,Mobile,Phone Number, Email, Address,Customer Service,Business Inquiries,",
    
     
 ]; 
@@ -29,14 +29,13 @@ include('includes/header.php')
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -58,9 +57,10 @@ include('includes/header.php')
                             <p>Get in touch to discuss your employee wellbeing needs today. Please give us a call, drop us an email or fill out the contact form.</p>
                         </div>
                         <ul class="contact-details">
-                            <li><i class="fas fa-map-marker-alt"></i>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
+                            <li><i class="fas fa-map-marker-alt"></i>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
                             <li><i class="fas fa-envelope"></i>hello@themeaster.net <br>Yourmail@gmail.com</li>
-                            <li><i class="fas fa-phone"></i> 6303548105 <br> 6303548105</li>
+                            <li><i class="fas fa-phone"></i> 6303548105 <br>
+                            9121485247 </li>
                         </ul>
                     </div>
                 </div>
@@ -99,57 +99,7 @@ include('includes/header.php')
     </section>
     <!--/.contact-section-->
 
-    <!-- <section class="branches-section bg-grey padding">
-        <div class="container">
-            <div class="row branches-lists">
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Sydney (Head Office)</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Brisbane</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Hobart</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-padding">
-                    <div class="branches-list">
-                        <h3>Melbourne</h3>
-                        <ul>
-                            <li>1 Epping Road</li>
-                            <li>North Ryde, NSW 2113</li>
-                            <li><a href="#">+61 2 9870 7689</a></li>
-                            <li><a href="#">email@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--/.branches-section-->
+
 
     <?php include('includes/footer.php');?>
 

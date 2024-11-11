@@ -13,7 +13,8 @@
                         <div class="col-lg-4">
                             <div class="footer-call">
                                 <i class="las la-phone-volume"></i>
-                                <p><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></p>
+                                <p><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105<br>9121485247</a></p>
+                                
                             </div>
                         </div>
                     </div>
@@ -60,8 +61,8 @@
                                 <h3>Head Office</h3>
                             </div>
                             <ul class="footer-contact">
-                                <li><span>Location:</span>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
-                                <li><span>Join Us:</span>Info@YourGmail24.com</li>
+                                <li><span>Location:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082</li>
+                                <li><span>Join Us:</span>bharathgo.official@gmail.com</li>
                             </ul>
                         </div>
                     </div>

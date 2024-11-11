@@ -20,14 +20,13 @@
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -51,19 +50,19 @@
     <main class="wrap">
         <section class="container">
             <div class="container__heading">
-                <h1 style="text-align: center; color: goldenrod;"> Privacy Policy for Bharathgo </h1>
+                <h1 style="text-align: center; color: goldenrod;"> Privacy Policy for BharathGo </h1>
             </div>
           
             <div class="container__content">
                 <p>
                    
-Your privacy is important to us at Bharathgo    (referred to as "Bharathgo," "we," "our," or "us"). This Privacy Policy describes how we gather, use, share, and safeguard your personal information when you engage with our services, including our website and mobile app (together referred to as the "Bharathgo Platform"). This policy also covers any communication you may have with us offline, including phone calls or emails.
+Your privacy is important to us at BharathGo    (referred to as "BharathGo," "we," "our," or "us"). This Privacy Policy describes how we gather, use, share, and safeguard your personal information when you engage with our services, including our website and mobile app (together referred to as the "BharathGo Platform"). This policy also covers any communication you may have with us offline, including phone calls or emails.
 
 
                 </p>
-                <p><b>By using the Bharathgo Platform or our services, you agree to follow the terms of this Policy, so please read it carefully. </b></p>
+                <p><b>By using the BharathGo Platform or our services, you agree to follow the terms of this Policy, so please read it carefully. </b></p>
                 <h2>User Consent </h2>
-                <p>When you use the Bharathgo Platform or our services, you give your consent for us to collect, use, and share your information as explained in this Policy. If you do not agree with any part of this Policy, please stop using the Bharathgo Platform.
+                <p>When you use the BharathGo Platform or our services, you give your consent for us to collect, use, and share your information as explained in this Policy. If you do not agree with any part of this Policy, please stop using the BharathGo Platform.
 
                     </p>
                 <h2> What Information We Collect</h2>
@@ -91,7 +90,7 @@ Your privacy is important to us at Bharathgo    (referred to as "Bharathgo," "we
                             <li> Show you relevant options (like nearby drivers) based on your location.</li>
                             <li> Ensure safety and security by detecting fraud and preventing abuse. </li>
                             <li>Adhere to legal requirements and respond to requests from government agencies. </li>
-                            <li>Offer promotions and special deals based on your use of the Bharathgo Platform. </li>
+                            <li>Offer promotions and special deals based on your use of the BharathGo Platform. </li>
                         </ul>
                        <h2> When We Share Your Information </h2>
                        <h3>With Drivers or Rental Partners </h3>
@@ -109,7 +108,7 @@ Your privacy is important to us at Bharathgo    (referred to as "Bharathgo," "we
                  <h2>Policy Updates </h2>
                  <p> We may revise this policy from time to time to account for updates in our practices or changes in legal requirements. If any major changes are made, we’ll let you know via email or a notification on the app.</p>
                  <h2>Address </h2>
-                 <p>Ground Floor, Amrutha Ville, Opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082 </p>
+                 <p>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082 </p>
                 <h2> Phone </h2>
                 <p> : 6303548105</p>
                 </div>

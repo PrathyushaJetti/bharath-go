@@ -88,7 +88,7 @@
 }
 
 .round-text:before {
-    background-image: url(../img/location-marker.png);
+    background-image: url(../images/bharath-go.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 30%;
@@ -302,7 +302,7 @@
 }
 
 .bg-half {
-    background-image: url(../img/bg-1.jpg);
+    background-image: url(../images/slider-bg-2.webp);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -1163,7 +1163,7 @@
 }
 
 .taxi-holder .taxi {
-    background-image: url(../img/taxi.png);
+    background-image: url(../images/Untitled_design__8___1_-removebg-preview.png);
     background-repeat: no-repeat;
     background-position: center right;
     background-size: contain;
@@ -1175,7 +1175,7 @@
 }
 
 .taxi-holder .mockup {
-    background-image: url(../img/mockup.png);
+    background-image: url(../images/mockup.png);
     background-repeat: no-repeat;
     background-position: center right;
     background-size: contain;
@@ -1188,7 +1188,7 @@
 }
 
 .taxi-holder .charecter {
-    background-image: url(../img/charecter.png);
+    background-image: url(../images/charecter-Photoroom.png);
     background-repeat: no-repeat;
     background-position: center right;
     background-size: contain;
@@ -1476,7 +1476,7 @@
 }
 
 .cta-men {
-    background-image: url(../img/cta-men.png);
+    background-image: url(../images/book-taxi.webp);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: contain;
@@ -1703,7 +1703,7 @@
 
 .experience-box {
     background-color: #004418;
-    background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
+    background-image:#004418;
     background-size: 10px 10px;
     padding: 30px;
     position: absolute;
@@ -2081,7 +2081,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-call p a {
-    color: #222;
+    color:white;
     font-size: 32px;
     font-weight: 700;
     line-height: 1;

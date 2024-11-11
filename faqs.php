@@ -23,14 +23,13 @@
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -56,47 +55,47 @@
                     <div class="accordion faq-accordion" id="faq-accordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> What is Bharathgo?</button>
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> What is BharathGo?</button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
-                                    <p>Bharathgo is a bike taxi and ride-sharing app that provides convenient, affordable, and quick transport services by connecting passengers with nearby bike riders, called "drivers".</p>
+                                    <p>BharathGo is a bike taxi and ride-sharing app that provides convenient, affordable, and quick transport services by connecting passengers with nearby bike riders, called "drivers".</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> How can I book a ride on Bharathgo? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> How can I book a ride on BharathGo? </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
-                                    <p>To book a ride, download the Bharathgo app, enter your destination, and choose the pickup point. The app connects you with a nearby driver who’ll come to pick you up and take you straight to your destination.</p>
+                                    <p>To book a ride, download the BharathGo app, enter your destination, and choose the pickup point. The app connects you with a nearby driver who’ll come to pick you up and take you straight to your destination.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">  Is Bharathgo safe for passengers? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">  Is BharathGo safe for passengers? </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
-                                    <p>Yes, Bharathgo prioritizes safety by conducting background checks on all drivers, providing real-time tracking, and offering the option to share ride details with family or friends.</p>
+                                    <p>Yes, BharathGo prioritizes safety by conducting background checks on all drivers, providing real-time tracking, and offering the option to share ride details with family or friends.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">   What are the payment options available on Bharathgo? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">   What are the payment options available on BharathGo? </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
-                                    <p>Bharathgo accepts various payment methods, including cash, credit/debit cards, and popular mobile wallets like Paytm, Google Pay, and PhonePe.</p>
+                                    <p>BharathGo accepts various payment methods, including cash, credit/debit cards, and popular mobile wallets like Paytm, Google Pay, and PhonePe.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFive">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"> How does Bharathgo calculate fares? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"> How does BharathGo calculate fares? </button>
                             </h2>
                             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
@@ -108,7 +107,7 @@
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingsix">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix"> Can I book a ride for someone else on Bharathgo? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix"> Can I book a ride for someone else on BharathGo? </button>
                             </h2>
                             <div id="collapsesix" class="accordion-collapse collapse" aria-labelledby="headingsix" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
@@ -132,7 +131,7 @@
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingeight">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseeight">  Are there any cancellation fees on Bharathgo? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseeight">  Are there any cancellation fees on BharathGo? </button>
                             </h2>
                             <div id="collapseeight" class="accordion-collapse collapse" aria-labelledby="headingeight" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
@@ -144,11 +143,11 @@
                         </div>  
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingnine">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsenine" aria-expanded="false" aria-controls="collapsenine">  Does Bharathgo offer services in all cities? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsenine" aria-expanded="false" aria-controls="collapsenine">  Does BharathGo offer services in all cities? </button>
                             </h2>
                             <div id="collapsenine" class="accordion-collapse collapse" aria-labelledby="headingnine" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
-                                    <p>   Bharathgo is currently available in many Indian cities, including metro areas and some tier-2 cities. You can check the app or website for a complete list of available cities.
+                                    <p>   BharathGo is currently available in many Indian cities, including metro areas and some tier-2 cities. You can check the app or website for a complete list of available cities.
 
 
 
@@ -158,11 +157,11 @@
                         </div>  
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingten">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseten" aria-expanded="false" aria-controls="collapseten">  How can I become a Bharathgo driver? </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseten" aria-expanded="false" aria-controls="collapseten">  How can I become a BharathGo driver? </button>
                             </h2>
                             <div id="collapseten" class="accordion-collapse collapse" aria-labelledby="headingten" data-bs-parent="#faq-accordion">
                                 <div class="accordion-body">
-                                    <p>  To become a Bharathgo driver, you need a valid driving license, bike, and smartphone. You can sign up through the Bharathgo drivers app, where you’ll be guided through the onboarding process.
+                                    <p>  To become a BharathGo driver, you need a valid driving license, bike, and smartphone. You can sign up through the BharathGo drivers app, where you’ll be guided through the onboarding process.
 
                                     </p>
                                 </div>

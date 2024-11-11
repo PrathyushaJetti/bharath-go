@@ -1,8 +1,8 @@
 <?php ;
 $meta = [
     'title' => "BharathGo Recruitment & Career - Job Opportunities at BharathGo",
-    'description' => "Bharathgo Recruitment & Career - Explore job opportunities at Bharathgo, Join us for a rewarding career with growth, learning, and a supportive team. Apply now.",
-    'keywords' => "Jobs in bharathgo,Driver jobs,Jobs near me,Bharathgo careers,Jobs,Vacancies,hiring,open positions,work with us,Cabs, autos, bikes,Job hiring near me,Car drives for 1 day,vehicle jobs,",
+    'description' => "BharathGo Recruitment & Career - Explore job opportunities at BharathGo, Join us for a rewarding career with growth, learning, and a supportive team. Apply now.",
+    'keywords' => "Jobs in BharathGo,Driver jobs,Jobs near me,BharathGo careers,Jobs,Vacancies,hiring,open positions,work with us,Cabs, autos, bikes,Job hiring near me,Car drives for 1 day,vehicle jobs,",
    
     
 ]; 
@@ -29,14 +29,13 @@ include('includes/header.php')
             <div class="site-logo">
                 <a href="index.php"><img src="assets/images/bharath-go.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! BharatGo, a theme
-                made for taxi service companies.</p>
+            <p>Fast, affordable, and reliable rides for everyone, anytime and anywhere you need to go.</p>
             <ul class="sidebox-list">
                 <li class="call"><span>Call for ride:</span> 6303548105</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>Ground floor 13, Amrutha Ville, opposite Yashoda Hospital Road, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082
                 </li>
-                <li><span>Email now:</span>Info.BharatGo@mail.com</li>
+                <li><span>Email now:</span>bharathgo.official@gmail.com</li>
             </ul>
         </div>
     </div>
@@ -65,13 +64,7 @@ include('includes/header.php')
                         <p>Bharath Go is transforming travel across India, offering bike taxis, autos, and cabs for easy, affordable rides. Operating in over 10+  cities and completing more than 5 million safe trips, it’s quickly becoming India’s top choice for comfortable, budget-friendly rides.</p>
                     </div>
                     <ul class="about-info">
-                        <li>
-                            <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                            <div class="owner">
-                                <h4>Founder - CEO</h4>
-                                <img class="signature" src="assets/img/signature.png" alt="signature">
-                            </div>
-                        </li>
+                       
                         <li>
                             <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
                         </li>
@@ -79,10 +72,8 @@ include('includes/header.php')
                 </div>
                 <div class="col-lg-6">
                     <div class="driver-details">
-                        <img src="assets/img/team-details.jpg" alt="img">
-                        <div class="experience-box">
-                            <h3><span>12+</span>Years Of <br> Experiences!</h3>
-                        </div>
+                        <img src="assets/images/about.webp" alt="about">
+                        
                     </div>
                 </div>
             </div>
@@ -96,10 +87,8 @@ include('includes/header.php')
             <div class="row">
                 <div class="col-lg-6">
                     <div class="driver-details">
-                        <img src="assets/img/team-details.jpg" alt="img">
-                        <div class="experience-box">
-                            <h3><span>12+</span>Years Of <br> Experiences!</h3>
-                        </div>
+                        <img src="assets/images/about-company.webp" alt="about">
+                       
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -109,13 +98,7 @@ include('includes/header.php')
                         <p>In 2023, Bharath Go introduced Bike-Taxis to India, becoming a leader in this space. With a focus on making travel easier across the country, it has grown steadily. Now, it’s well-known for app-based auto services and is expanding its reach in the cab market and local deliveries with Bharath Go Parcel.</p>
                     </div>
                     <ul class="about-info">
-                        <li>
-                            <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                            <div class="owner">
-                                <h4>Founder - CEO</h4>
-                                <img class="signature" src="assets/img/signature.png" alt="signature">
-                            </div>
-                        </li>
+                       
                         <li>
                             <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
                         </li>
@@ -138,13 +121,7 @@ include('includes/header.php')
                         <p>Join Bharath Go as a driver and enjoy flexible hours, competitive earnings, and a supportive community. Drive with us to connect people and create unforgettable experiences every day</p>
                     </div>
                     <ul class="about-info">
-                        <li>
-                            <img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
-                            <div class="owner">
-                                <h4>Founder - CEO</h4>
-                                <img class="signature" src="assets/img/signature.png" alt="signature">
-                            </div>
-                        </li>
+                        
                         <li>
                             <h2><span>Call For Taxi</span><a href="tel:6303548105"> 6303548105</a></h2>
                         </li>
@@ -152,10 +129,8 @@ include('includes/header.php')
                 </div>
                 <div class="col-lg-6">
                     <div class="driver-details">
-                        <img src="assets/img/team-details.jpg" alt="img">
-                        <div class="experience-box">
-                            <h3><span>12+</span>Years Of <br> Experiences!</h3>
-                        </div>
+                        <img src="assets/images/driver.webp" alt="driver">
+                        
                     </div>
                 </div>
             </div>
@@ -177,9 +152,9 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                <p>I used Bharathgo’s parcel service, and it was fantastic! My package was delivered quickly and safely, making it super reliable for urgent deliveries. Highly recommend this service!</p>
+                                <p>I used BharathGo’s parcel service, and it was fantastic! My package was delivered quickly and safely, making it super reliable for urgent deliveries. Highly recommend this service!</p>
                                 <div class="testi-author">
-                                    <div class="author-thumb"><img src="assets/img/comment-1.png" alt="author"></div>
+                                    <div class="author-thumb"><img src="assets/images/testimonial-neelima.webp" alt="testimonial"></div>
                                     <div class="author-info">
                                         <h3>Neelima </h3>
                                     </div>
@@ -189,9 +164,9 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                <p>   I booked a Bharathgo ride, and it was so easy and affordable. The driver arrived on time, and the journey was smooth. A great option for quick city travel!</p>
+                                <p>   I booked a BharathGo ride, and it was so easy and affordable. The driver arrived on time, and the journey was smooth. A great option for quick city travel!</p>
                                 <div class="testi-author">
-                                    <div class="author-thumb"><img src="assets/img/comment-2.png" alt="author"></div>
+                                    <div class="author-thumb"><img src="assets/images/testimonial-priya.webp" alt="testimonial"></div>
                                     <div class="author-info">
                                         <h3>Priya</h3>
                                     </div>
@@ -201,9 +176,9 @@ include('includes/header.php')
                         <div class="swiper-slide">
                             <div class="testi-item">
                                 <div class="quote-icon"><i class="las la-quote-right"></i></div>
-                                <p>  I tried Bharathgo rentals, and it was perfect for a day out! The rental process was simple, and the bike was in good condition. Great for exploring the city on my own!</p>
+                                <p>  I tried BharathGo rentals, and it was perfect for a day out! The rental process was simple, and the bike was in good condition. Great for exploring the city on my own!</p>
                                 <div class="testi-author">
-                                    <div class="author-thumb"><img src="assets/img/comment-3.png" alt="author"></div>
+                                    <div class="author-thumb"><img src="assets/images/testimonial-anil.webp" alt="testimonial"></div>
                                     <div class="author-info">
                                         <h3>Anil</h3>
                                     </div>
